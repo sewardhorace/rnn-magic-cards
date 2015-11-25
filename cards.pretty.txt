@@ -1,0 +1,5746 @@
+_NONAME_ _INVALID_
+_NOCOST_
+creating an lstm...
+~~~~~~~~
+
+missing seed text, using uniform probability over first character
+~~~~~~~~
+
+--------------------------
+~~~~~~~~
+heral tribute (common)
+{2}{B}
+dragon creatures blocking or blocked by @.
+
+scion of the paladin (uncommon)
+{4}{U}
+creature ~ goblin
+when @ dies, put a 1/1 white kithkin soldier creature token onto the battlefield.
+(2/2)
+
+hawl land pack (common)
+{R}
+creature ~ elf
+{G}: target creature can't block this turn.
+(1/1)
+
+frost warrior (common)
+{2}{U}
+enchantment creature ~ human cleric
+{T}: change the target of target spell or ability untap @.
+(1/1)
+
+blood~con, korn passing (uncommon)
+{2}
+artifact
+{T}: add {W} to your mana pool. if there are no % counters on @, sacrifice it.
+when you have noted vandimiccions X or two torget creatures each counter on @, put that many % counters on @.
+{2}, {T}, remove a % counter from @: target player loses 1 life and you gain 1 life.
+countertype % ki
+
+mycolate (common)
+{3}{W}
+creature ~ human soldier
+when @ dies, put a 3/3 colorless golem artifact creature token onto the battlefield.
+(3/2)
+
+riot crane yergest (rare)
+{2}{R}{R}
+legendary creature ~ human artificer
+when @ enters the battlefield, exile all cards from all graveyards.
+(2/2)
+
+revensive vorgat (uncommon)
+{2}{G}
+creature ~ human soldier
+horsemanship
+@ can't block unless any number of target creatures with flying and "{W}: @ gains vigilance until end of turn.
+(2/1)
+
+lurking trainer (common)
+{R}
+creature ~ shapeshifter
+changeling
+{T}: add {R} to your mana pool.
+(1/1)
+
+bloodletton thrull (uncommon)
+_NOCOST_
+land
+{2}, {T}: add {U}{B} to your mana pool.
+{2}{B}{R}: @ becomes a 4/3 green elemental creature with sictiliture in addition to its other types until end of turn.
+
+molten hollows (common)
+{1}{R}
+creature ~ goblin scout
+haste
+(2/1)
+
+purge (uncommon)
+{W}
+instant
+buyback {3}
+destroy enchanted creature.
+
+kor burst (common)
+{1}{W}
+enchantment ~ aura
+enchant creature
+enchanted creature can't be blocked by red creatures.
+enchanted creature can't be blocked by spells or abilities until end of combat.
+
+rune~wise throw (uncommon)
+{3}{B}
+creature ~ ogre
+trample
+lieutenant ~ as long as you control your mana pool, @ gains first strike and deathtouch.
+(3/3)
+
+amulet (rare)
+{3}{U}
+enchantment
+{1}, exile two creature cards from your graveyard: put a 1/1 blue bird enchantment red creature token with flying onto the battlefield.
+
+crypt draphy (uncommon)
+_NOCOST_
+creature ~ eldrazi processor
+as @ enters the battlefield, choose two players.
+at the beginning of each upkeep, if a player cast two or more spells last turn, transform @.
+(5/5)
+
+screeching street soul (uncommon)
+{2}{B}
+instant
+choose a creature type. @ deals damage to that creature and shuffle until end of turn.
+
+slumber flime (uncommon)
+{1}{B}{R}
+creature ~ spirit
+{B}, sacrifice a creature: @ gets +1/+1 until end of turn.
+(2/2)
+
+cryptic gangsen (uncommon)
+{2}{U}{U}
+sorcery
+delve
+target player discards a card.
+
+familisk priest (uncommon)
+{U}
+creature ~ insect
+{T}: target creature can't be blocked this turn.
+(1/1)
+
+noble golem (uncommon)
+{3}{W}
+creature ~ elemental swapp
+vigilance
+whenever @ or another ally enters the battlefield under your control, you may put a +1/+1 counter on @.
+(3/2)
+
+vulshok souled fiend (common)
+{2}{B}
+creature ~ merfolk wizard
+when @ enters the battlefield, put three 0/1 colorless eldrazi spawn creature tokens onto the battlefield. they have "sacrifice this creature: add {1} to your mana pool."
+(2/2)
+
+blood tutor (common)
+{2}{B}
+sorcery
+target player gains 4 life.
+lettr up to three target creature cards from your graveyard this way, @ deals damage to that creature's controller equal to the creature's power.
+
+spiriture of heliod (common)
+{W}
+creature ~ dryad soldier
+sacrifice @: you gain 1 life for each attacking creature.
+(1/1)
+
+yunder (common)
+{1}{G}{G}
+creature ~ snake
+shroud
+(3/1)
+
+armored transport (rare)
+{3}
+enchantment
+whenever a land enters the battlefield under an opponent's control, you may return target creature card from your graveyard to your hand.
+
+relic selent (uncommon)
+{2}{W}
+creature ~ human soldier
+echo {2}{W}
+when @ dies, return it to the battlefield transformed under your control at the beginning of the next end step.
+(1/1)
+
+threger of the brinblast (common)
+{4}{G}{U}
+legendary creature ~ auropwali
+trample
+cycling {2}
+(5/3)
+
+demon's falconer (uncommon)
+{2}{B}
+creature ~ vampire archer
+{U}: @ gets +1/+1 until end of turn.
+(1/1)
+
+jeweled warsensing (rare)
+{5}
+artifact
+{3}: each player exiles a card from his or her graveyard." this ability for each other creature cards from his or her graveyard to his or her hand. no long at the beginning of the next end step.
+
+karametra's adept (rare)
+{R}{G}
+instant
+cast @ only during any upkebplet, where X is the power of the card in hand.
+
+volrane druid (uncommon)
+{2}{W}
+creature ~ vampire
+flying
+echo {1}{W}
+when @ enters the battlefield, you lose 2 life unless you pay {1}."
+(3/3)
+
+storm surge (uncommon)
+{1}{U}{R}
+legendary creature ~ fox monk
+when a creature enters the battlefield, sacrifice @ and it deals 1 damage to you and double strike until end of turn.
+(2/2)
+
+heartstobpeath machines (common)
+{2}{B}
+sorcery
+target player puts the top X cards of his or her library into his or her graveyard, where X is the number of cards in that player's graveyard.
+
+thunderclappire (rare)
+{3}{R}{R}{G}{B/G}
+legendary creature ~ dragon
+flying
+whenever @ deals combat damage to a player, put a +1/+1 counter on it.
+(4/4)
+
+kaeranjable pinghencer (rare)
+{4}{B}{B}
+creature ~ demon
+flying
+when @ enters the battlefield, target player puts the top five cards of his or her library into his or her graveyard.
+(4/3)
+
+lineweaver (uncommon)
+{2}{U}
+instant
+if an opponent controls a plains and gains indestructible until end of turn, draw a card for each % counter on @.
+countertype % lore
+
+lanter fees (uncommon)
+{B}
+creature ~ human shaman
+{2}{R}: exile @ and target creature card from your graveyard on the bottom of your library and put a +1/+1 counter on @.
+(1/1)
+
+scarnclaw bonds (rare)
+{1}{G}
+creature ~ wolf
+whenever @ becomes the target of a spell or ability an opponent controls, uncast that spell.
+(1/1)
+
+hisel the blood (uncommon)
+{2}
+instant
+uncast target spell. you gain 4 life.
+
+tooch of the void (common)
+{2}{B}
+creature ~ merfolk soldier
+{T}: target creature gets -0/-3 until end of turn.
+(1/1)
+
+deep~shry, havern exer (uncommon)
+{3}{B}
+creature ~ zombie
+at the beginning of each end step, each opponent discards a card.
+(3/3)
+
+barnor dronerance (common)
+{1}{B}
+creature ~ zombie
+lifelink
+(1/1)
+
+caustic hydra (rare)
+{1}{U}
+creature ~ human wizard
+whenever a creature you control with a +1/+1 counter on it during each other player, that player second can't be uncasted.
+(2/1)
+
+leven's prearmaster (common)
+{2}{U}
+sorcery
+reveal the top ten cards of your library. put all cards of the chosen color exiled this way on top of its owner's library.
+
+timber's prewens (common)
+{1}{G}
+instant
+split second
+untap target creature with s controller adds one mana of any color to his or her mana pool .
+
+barrade of shault one (common)
+{1}{R}
+instant
+@ deals X damage to each creature with flying and each player.
+
+ador mell (uncommon)
+{0}
+artifact
+{5}: put a % counter on @.
+{T}, sacrifice @: return target creature to its owner's hand.
+{T}: add {1} to your mana pool. spend this mana only to cast spells.
+
+bramble weaver (common)
+{3}{G}{G}
+creature ~ djinn wizard
+flying
+{U}{R}: @ gains shroud until end of turn.
+(3/3)
+
+thran armor (rare)
+{4}
+artifact
+{2}, {T}: exile the top card of your library face down.
+when @ is put into a graveyard from the battlefield, return @ to its owner's hand.
+
+vivid patch (common)
+{2}{U}
+creature ~ hound soldier
+{T}: target instant or sorcery spell you control become blue until end of turn.
+(2/1)
+
+auriok replica (uncommon)
+{2}{W}
+creature ~ vampire rogue
+first strike
+sacrifice @: you gain 2 life.
+(2/4)
+
+thran courazen (rare)
+{4}
+land
+{T}, pay 1 life, sacrifice a card at random: shuffle up to three target creature cards from your graveyard and target creature card of that turn.
+{T}: uncapte 1 instead face up to three target cards from his or her graveyard. this change get -2/-0 until end of turn and can't be blocked this turn.
+
+retaling lens (common)
+{1}{U}
+sorcery
+target player gains 4 life.
+
+darknothi soldier (common)
+{B}
+creature ~ spirit
+whenever @ deals combat damage to a player, put a +1/+1 counter on @.
+(1/1)
+
+shield myr (common)
+{3}{W}
+legendary creature ~ human wizard
+{3}{W}: creatures you control get +1/+1 until end of turn.
+(2/2)
+
+dwarven scorcher (common)
+{2}{R}
+creature ~ giant soldier
+if @ would deal combat damage to a player, put a +1/+1 counter on it.
+(2/2)
+
+awakenan spike (common)
+{2}{W}
+creature ~ human advisor
+unless the pire creatures you control get +1/+1.
+(2/2)
+
+royal trooper (uncommon)
+{W}
+creature ~ sliver
+all slivers have "{T}: namage each permanent whose power and toughness X.
+(1/1)
+
+volcanic druid (uncommon)
+{R}{R}{R}
+creature ~ bird
+flying
+sacrifice @: @ deals 1 damage to target creature or player.
+(2/2)
+
+lumitypuck bowkator (common)
+{2}{G}
+creature ~ lizard
+first strike
+if @ would die, return @ to its owner's hand.
+(2/1)
+
+gloous oip (common)
+{B/G}
+enchantment ~ aura
+enchant creature
+enchanted creature can't be blocked by red creatures.
+enchanted creature gets +1/+4.
+
+wall of conscipcer (common)
+{1}{G}
+creature ~ zombie
+undying
+(2/1)
+
+voralet bones (mythic rare)
+{3}{W}{U}{B}
+creature ~ spirit
+flying
+{T}: @ gets +1/+0 until end of turn. if that creature is white, it gets +1/+1 until end of turn for each creature card in your graveyard.
+(4/4)
+
+hoof oozbuy (common)
+{3}{G}
+sorcery
+look at the top five cards of your library. you may reveal an instant or sorcery card from among them. put that card on the bottom of your library in any order, then put all other cards revealed this way into your graveyard.
+
+merfolk of zendikar (common)
+{2}{U}
+creature ~ sliver
+all sliver creatures have flying.
+(2/2)
+
+laccoling aven (common)
+{3}{R}
+sorcery
+put three 1/1 red goblin creature tokens onto the battlefield.
+
+ravenous cultist (mythic rare)
+{R}
+creature ~ beast
+whenever a legendary permanent on the battlefield, @ deals 1 damage to target player.
+(4/4)
+
+trigon of the tabern (common)
+{2}
+instant
+destroy target creature that's one or more colors.
+
+siren wanderer (common)
+{3}{U}{U}
+creature ~ dragon
+flying
+when @ enters the battlefield, draw a card, then discard a card.
+(4/3)
+
+hunter of the ranks (common)
+{3}{G}
+creature ~ beast
+hexproof
+(2/4)
+
+cloud charm (uncommon)
+{2}{W}
+artifact creature ~ golem
+soulbond
+as long as @ is paired with another creature, both creatures have protection from zombies.
+(3/3)
+
+flame phantom (uncommon)
+{1}{U}
+creature ~ merfolk wizard
+exalted
+{U}: @ can't be blocked this turn.
+(1/1)
+
+war sliver (rare)
+{3}{W}
+creature ~ angel
+flying
+whenever @ deals combat damage to a player, exile any number of target nonland permanents your opponents control with toughness 2 or less. if that spell is uncasted this way, exile it instead of putting it into its owner's graveyard.
+(2/2)
+
+jolrainous mongles (common)
+{1}{G}
+creature ~ snake
+when @ enters the battlefield, you may discard a card. if you do, draw a card.
+(1/1)
+
+funeral worm (common)
+{W}{U}
+creature ~ spirit
+flying
+sacrifice @: uncast target instant or sorcery spell unless its controller pays {1}.
+(2/1)
+
+spire maneumer (common)
+{1}{W}
+instant
+all creatures get +1/+1 until end of turn.
+
+taginatist student (common)
+{1}{B}
+instant
+target creature gets +1/+2 until end of turn. destroy that creature at the beginning of the next end step.
+
+spire shaman (common)
+{1}{G}
+creature ~ elf shaman
+{T}: target green creature gets +0/+3 until end of turn.
+(1/1)
+
+treetop defense (common)
+{2}{G}
+creature ~ elf archer
+when @ enters the battlefield, you may return target creature to its owner's hand.
+(2/1)
+
+flicherfisk component (common)
+{2}{W}
+creature ~ hellion beast
+devour 1
+@ can't be blocked as long as defending player controls an opponent controls.
+(2/2)
+
+sepreated impurce (mythic rare) _INVALID_
+{2}{R}{R}
+creature ~ wurm
+when @ enters the battlefield, each player exiles X cards from his or her hand and you choose one of them. tap target permanent.
+when you control no red spell or a red plains, you may cast target creature card from your hand { fas flanking, sacrifice @.
+(7/7)
+
+sharowborn neckless (rare)
+{4}{R}
+creature ~ wurm
+when @ has flying an opponent controls causes you to discard @, put it onto the battlefield attached to it to any number of target permanents of that named this turn.
+(3/3)
+
+oppray ores (uncommon)
+{G}{W}
+sorcery
+cipher
+put a 1/1 white bird creature token with flying onto the battlefield for each % counter on @.
+countertype % dood
+
+goblin ghoul (uncommon)
+{2}{R}
+world enchantment
+cumulative upkeep {S}
+if a creature or land card, @ deals 2 damage to that creature's controller.
+
+shen elention (common)
+{3}{G}
+sorcery
+cycling {2}
+you gain 6 life.
+
+ebon specter (uncommon)
+{2}{B}{R}
+creature ~ goblin warrior
+whenever @ deals damage, put a +1/+1 counter on it.
+(1/1)
+
+sanctum ling (uncommon)
+{1}{W}{W}
+creature ~ drake
+flying
+{U}: @ gains first strike until end of turn.
+{W}{W}: @ gets +1/+0 until end of turn.
+(1/2)
+
+skull freck (uncommon)
+{2}{B}{B}
+creature ~ ogre
+when @ enters the battlefield, search your library for a card named @, reveal it, and put it into your hand. if you do, shuffle your library.
+(4/4)
+
+denclaster behemoth (uncommon)
+{1}{G}
+instant
+target creature gets +3/+3 until end of turn.
+
+nightless vapors (common)
+{2}{B}
+creature ~ zombie
+when @ attacks or blocks, return it to its owner's hand, you may put a creature card from your hand onto the battlefield.
+(3/2)
+
+nath of sacrificing (common)
+{2}{B}{R}
+instant
+destroy target creature that's one or more colors.
+
+priest of dark (common)
+{2}{B}
+creature ~ zombie
+when @ enters the battlefield, you may have target creature get -1/-1 until end of turn.
+(2/2)
+
+trip routed worn (common)
+{4}{U}
+artifact creature ~ scarecrow
+flying
+(2/2)
+
+necrogon's predator (common)
+{B}
+enchantment ~ aura
+enchant creature
+enchanted creature gets +1/+2 and has deathtouch.
+
+arrows of lithlfist (uncommon)
+{1}{R}
+artifact
+sacrifice a creature: @ deals 1 damage to target creature or player.
+
+barbarian melics (uncommon)
+{G}
+creature ~ shapeshifter
+you may have @ enter the battlefield as a copy of any creature on the battlefield, except it's still a nunbuli uribucon of 1/1 blue elemental creature with flying onto the battlefield.
+(0/0)
+
+loazhew of malakir (common)
+{3}{G}
+creature ~ elemental
+whenever @ attacks, you may have it deal damage equal to the number of % counters on it to another creature.
+countertype % age
+(6/6)
+
+intellime guildmage (uncommon)
+{2}{G}
+sorcery
+switch target permanents you control get +1/+1 until end of turn.
+
+corpse lunger (uncommon)
+{3}
+artifact ~ equipment
+equip {1}
+equipped creature has "{T}, sacrifice @: exile target creature. return that card to the battlefield under its owner's control at the beginning of the next end step.
+
+bloodcraw inticity (rare)
+{X}{B}{B}
+artifact
+{T}: add {U} or {B} to your mana pool. @ deals 1 damage to you.
+{T}: add two mana in any combination of {R} and/or {G} to your mana pool, where X is the discarded card's put into his or her hand. search that player's library for a card and exile it. then that player shuffles his or her library.
+
+vulshok baneflens (common)
+{1}{B}
+creature ~ shade
+flying
+(1/1)
+
+priestroder dragon (uncommon)
+{1}{G}
+creature ~ elf druid
+{T}: uncast target spell.
+(1/1)
+
+flyped from the land (uncommon)
+{4}
+instant
+target creature gets -3/-0 until end of turn.
+
+murchroash (uncommon)
+{4}{G}
+artifact creature ~ golem
+creatures with power less than @'s power can't block it.
+(3/2)
+
+door squadraw (rare) _INVALID_
+{3}{G}
+enchantment
+whenever a land enters the battlefield under an opponent's control, and attach all equal to -^^^} less to activate four or fewer last turn equal to the number of % counters on @.
+counters placed of @ and returns to your hand attacking creature token named as though it had flash.
+
+dragon~staichd (uncommon)
+{4}{G}
+artifact creature ~ scarecrow
+{2}: @ gains shroud until end of turn.
+{U}, {T}: you may tap or untap target creature. when that creature doesn't untap during its controller's untap step, with flashback as long as you control a forest card from @.
+(2/2)
+
+nemonari's borderpost (common)
+{1}{W}{B}
+creature ~ spirit
+flying
+(3/1)
+
+rake shapeshifter (rare)
+{2}{U}{R}
+creature ~ faerie
+flying
+first strike
+when @ enters the battlefield, target opponent gains control of all other creatures with flying your opponents control pin one elf creatures deveared an opponent chooses and number of creatures he or she controls and onlo that commano of colors one of those pets than that spell can't be uncasted by spells or abilities and the damage can't be prevented.
+(3/3)
+
+taon, salvage (common)
+{2}{B}
+creature ~ spirit
+when @ enters the battlefield, if it was kicked, target player discards a card.
+(1/1)
+
+freyalise's cryings (uncommon)
+{2}{G}
+sorcery
+put a 4/4 green rhinn creature token with trample onto the battlefield.
+
+soul's teach of artiff (common)
+{2}{B}
+sorcery
+destroy all untapped creatures with power 2 or less.
+
+turn to strike (uncommon)
+{2}{R}
+creature ~ hound
+when a player opponent and gains haste until end of turn.
+(3/2)
+
+vulshow (common)
+{2}{G}
+enchantment ~ aura
+enchant creature
+enchanted creature has flying.
+{1}: @ can't be blocked this turn.
+
+vinding pilgrim (uncommon)
+{4}
+artifact
+whenever a player taps a land for mana, that player adds {B} to your mana pool for each % counter removed this way.
+countertype % charge
+
+phyrexian burgry (common)
+{2}{U}
+instant
+nast no swamp cards in your library, then draw that many cards.
+
+benthic infiltrator (uncommon)
+{1}{B}{B}
+creature ~ vampire
+at the beginning of your upkeep, sacrifice @ unless you pay {B}{B}.
+whenever a player puts a basic land token only exile a creature you control, you may put a 1/1 blue surce wurm artifact creature token with flying onto the battlefield.
+(2/2)
+
+fanth spligeron (uncommon)
+{4}{B}
+sorcery
+target player discards a card.
+
+soul shapeshifter (uncommon)
+{2}{B}
+creature ~ human druid
+when @ enters the battlefield, scry 1.
+{G}: @ gains deathtouch until end of turn.
+(2/2)
+
+necromonic ranger (rare)
+{1}{B}
+enchantment
+cumulative upkeep {1}
+when an opponent discards a card, @ deals 2 damage to that player.
+
+hollowborn barghepry (rare)
+{7}{B}{G}
+creature ~ beast
+trample
+when @ enters the battlefield, you may search your library for a card named @, reveal it, and put it into your hand. if you do, shuffle your library.
+{B}: @ gets +1/+1 until end of turn.
+(6/6)
+
+drake frenzier (common)
+{1}{U}
+creature ~ metathran soldier
+morph {3}{W}
+when @ is turned face up, destroy each of those creatures dies this turn.
+(1/2)
+
+lose horde (rare)
+{7}
+sorcery
+destroy all enchantments or all nonland permanents you don't control.
+
+dentunth first (common)
+{3}{B}
+creature ~ human soldier
+horsemanship
+when @ enters the battlefield, target opponent discards a card.
+(2/2)
+
+demonic clusmain (common)
+{2}{B}
+creature ~ plant skeleton
+at the beginning of your upkeep, @ deals 1 damage to you.
+(1/1)
+
+illusion (uncommon)
+{2}{W}
+creature ~ human minion
+shadow
+{B}: @ gets +1/+1 until end of turn and deals 1 damage to you.
+(2/1)
+
+guardian zendikon (uncommon)
+{G}
+instant
+put all enchantments on top of their owners' libraries.
+
+lightning ridge (common)
+{3}{R}
+creature ~ goblin warrior
+trample
+it deals 3 damage to another target creature or player.
+(1/1)
+
+sviller of treasunner (common)
+{3}{G}
+creature ~ elemental
+@ gets +2/+2 as long as you control a red permanent.
+(4/1)
+
+scouchring vanqua (common)
+{3}{G}
+creature ~ snake
+(3/3)
+
+fire stut (common)
+{2}{R}
+instant
+[1 = @ deals X damage to target creature or player. if the creature deals damage equal to its power to that player. if you lose the flip, the next time it would deal damage this turn, prevent that damage.
+
+martyr of liziciar (uncommon)
+{3}{B}
+creature ~ spirit
+{B}: target creature gets -1/-1 until end of turn.
+(2/2)
+
+aboshan's sand (uncommon)
+{2}{U}{U}
+creature ~ human rebel
+constellation ~ whenever @ or another enchantment enters the battlefield under your control, you may put a 2/2 green wolf creature token onto the battlefield for each card of the chosen type revealed this way.
+when @ enters the battlefield, draw a card.
+(2/2)
+
+shorescaler hunter (rare)
+{4}{U}
+creature ~ bat
+flying
+deathtouch
+heroic ~ whenever you cast a spell that targets @, exile @, then that player shuffles his or her library.
+(2/1)
+
+leonin mystictork (uncommon)
+{3}{W}{W}
+creature ~ cleric avatar
+exploit
+when @'s owner graveyard, are an enchantment card and put it onto the battlefield under your control.
+(4/5)
+
+hewl hightle (rare)
+{2}{W}
+creature ~ fish
+{U}{B}: @ gains shadokouge and lands has flying. the same name as a card exiled with @, to your mana pool for each card revealed this way.
+(2/2)
+
+diviner's fire (uncommon)
+{2}{G}
+creature ~ human cleric
+exploit
+when @ exploits a creature, return target creature to its owner's hand.
+(0/4)
+
+vodalian sorcerer (common)
+{3}{U}
+creature ~ treefolk
+when you cast @, target creature can't be blocked this turn.
+(4/5)
+
+breath of leaver (uncommon)
+{4}{G}
+creature ~ beast
+when @ enters the battlefield, you gain 3 life for each swamp you control.
+(3/3)
+
+boros mantle (uncommon)
+{1}{W}{W}
+creature ~ elemental
+flying
+whenever you cast a noncreature spell, put a +1/+1 counter on @.
+(4/4)
+
+seiric cubera (common)
+{2}{R}
+sorcery
+@ deals 1 damage to target creature or player.
+
+will~mooning adants (common)
+{2}{U}
+creature ~ spirit
+whenever you cast a spirit or arcane spell, you may return @ to its owner's hand.
+(1/3)
+
+ameli ship (common)
+{3}{U}
+creature ~ drake
+flying
+when @ dies, return another target creature card from your graveyard to the battlefield.
+(2/2)
+
+rashi (uncommon)
+{3}{U}
+sorcery
+return one or two target creatures to their owners' hands.
+
+vimpootic charm (uncommon)
+{2}{B}
+creature ~ zombie
+trample
+as long as @ is in your graveyard and you control an additional mana, the player puts it onto the battlefield unless any opponent may speik this way.
+(0/*)
+
+frangles onitcast (uncommon)
+{4}{R}
+creature ~ wolf
+morph {3}{B}
+whenever @ deals combat damage to a creature, destroy that creature.
+(2/2)
+
+coastland skimmer (common)
+{2}{U}
+instant
+storm
+destroy target creature with power 4 or greater.
+
+witch nightstalker (uncommon)
+{3}{B}
+creature ~ zombie
+@ gets +1/+1 for each other creature this turn instead.
+(3/1)
+
+ralen of fear monser (rare)
+{4}{W}
+creature ~ human wizard
+{T}: look at the top card of target player's library.
+(1/1)
+
+lightning strike (common)
+{2}{R}
+creature ~ orc graed
+when @ enters the battlefield, target creature can't block this turn.
+(3/3)
+
+slash from within (rare)
+{1}{G}
+creature ~ rat
+@'s power is equal to the number of +1/+1 counters on @.
+(*/1)
+
+power guildmage (common)
+{2}{G}
+creature ~ beast
+(3/2)
+
+wild mascero (common)
+{1}{G}
+sorcery
+converge ~ draw a card for each creature you control, then draw five -1/-1 counters on @.
+
+crypt wormfagu (common)
+{1}{B}
+creature ~ spirit
+exploit
+when @ exploits a creature, return @ to its owner's hand. if @ was kicked, if defender that would exile threel a copy of each or hurn, each opponent loses 2 life.
+at the beginning of each opponent's upkeep, if from another targets a permanent that player controls instead if you control a plains, @ deals 2 damage to the creature and each player.
+(1/1)
+
+stempe intelment (common)
+{G}
+instant
+target creature gets +3/+3 until end of turn.
+
+hunted angel (common)
+{3}{B}
+creature ~ beast
+@ can't be blocked except by three or more creatures.
+(2/3)
+
+auriok salvagers (uncommon)
+{3}{W}
+artifact creature ~ golem
+{1}, sacrifice @: exile target creature card from a graveyard. if it was a creature card, you gain 1 life.
+(2/4)
+
+worms of the nightstalker (rare)
+{5}{W}{W}
+legendary enchantment creature ~ god
+when @ enters the battlefield, reveal the top four cards of your library and put them onto the battlefield tapped under target player's control. then that player shuffles his or her library.
+(4/4)
+
+merfolk of adasters (common)
+{U}
+creature ~ merfolk wizard
+{T}: target creature gains flying until end of turn.
+(1/1)
+
+kol~blant offinery (common)
+{2}{R}
+creature ~ goblin warrior
+when @ dies, target land you control become swampcalk until end of turn.
+(3/2)
+
+mogg sentinel (uncommon)
+{3}{R}
+sorcery
+up to two target creatures each get +2/+2 and gain first strike until end of turn.
+
+soul stand (rare)
+{3}{B}
+enchantment
+at the beginning of your upkeep, sacrifice @ unless you pay {U}.
+whenever a player puts a swamp comame with the game would giin this wayh you control a mourtain, when you lose X life, then shuffll his or her library.
+
+aether battle evil (rare)
+{2}{G}
+enchantment
+cumulative upkeep {1}
+add {R}{R} to your mana pool. you can't spend this mana to cast spells.
+
+trute of medic (uncommon)
+{3}{R/B}
+instant
+@ deals X damage to target creature or player. if @ would deal damage to the other creatures that dies, reveal them, among creatures that player controls cautieongel card you owning player controls until end of turn. scry 1.
+~~~~~~~~
+grosto the room bereance (rare)
+{3}{B}{B}
+sorcery
+destroy target nonblack creature. put a 1/1 black goblin rogue creature token onto the battlefield.
+
+remove infunct (common)
+{1}{B}
+artifact creature ~ zombie
+when @ dies, you gain 2 life.
+(2/1)
+
+faith's funcur (uncommon)
+{4}{W}{W}
+sorcery
+destroy all tapped creatures.
+
+shambling sliver (uncommon)
+{1}{R}{W}
+sorcery
+flip a coin. if you win the flip, @ deals 2 damage to each creature without flying and each player.
+
+master banner (rare)
+{3}{W}
+legendary creature ~ goblin warrior
+whenever another creature dies, it deals 2 damage to that creature or player instead.
+(2/2)
+
+shy (uncommon)
+{3}{W}
+creature ~ gargoyle
+flying
+haste
+when @ enters the battlefield, you may return target card from your graveyard to your hand.
+(2/2)
+
+virturi bloodshopter (common)
+{1}{W}
+creature ~ merfolk wizard
+{U}, {T}: target creature gains flying until end of turn.
+{W}{W}: @ gains first strike until end of turn.
+(1/2)
+
+keeper of the forse (uncommon)
+{2}{R}
+enchantment
+creatures with flying can't block creatures you control.
+
+zombie krovon (common)
+{4}{B}
+creature ~ spirit
+flying
+when @ dies, put a 2/2 black zombie creature token onto the battlefield.
+(2/2)
+
+dern stone spirit (rare)
+{3}{G}{G}
+legendary creature ~ elemental warrior
+when @ enters the battlefield, target player shuffles any number of target attacking creatures become black and "{3}, discard a card: regenerate @.
+(4/4)
+
+crooksland elemental (rare) _INVALID_
+{5}{U}{U}
+legendary creature ~ atogon
++1: creatures with converted mana cost 2 or less.
+prevent all damage that would be dealt to you this turn if you control a plains.
+-7: you get an emblem with ": creatures of the chosen vand in addition to its owner's hand.
+((6))
+
+anafol embracrom (common)
+_NOCOST_
+artifact ~ equipment
+equip {2}
+equipped creature gets +1/+1 for each aura attached to is equal to your sacrificed.
+at the beginning of each upkeep, if a player cast two or more spells last turn, transform @.
+
+shaulthring giant (rare)
+{5}{G}{G}
+creature ~ hellion
+@ enters the battlefield with X +1/+1 counters on it.
+{1}, remove a +0/+2 counter from a creature you control: put a 7/8 black and red elemental creature token with flying onto the battlefield.
+(0/0)
+
+lavalanche (rare)
+{4}{R}{R}
+legendary creature ~ dragon spirit
+flying
+whenever this creature transforms each turn, @ deals 3 damage to target creature or player.
+(5/5)
+
+havengul bastatimer (rare)
+_NOCOST_
+land
+{T}: add {1} to your mana pool.
+{3}{W}: for each land of the first strike, trample, and trample and lose effect creatures have protection from white until end of turn.
+
+highland horn (uncommon)
+_NOCOST_
+creature ~ elemental
+trample
+haste
+at the beginning of each upkeep, if a player cast two or more spells last turn, transform @.
+(6/1)
+
+wirewood hivemage (uncommon)
+{3}{G}{G}
+creature ~ spider
+reach
+whenever @ blocks a creature, put a +1/+1 counter on @.
+(2/3)
+
+borderchal deep (uncommon)
+{1}{R}
+instant
+cast @ only during combat befome attached to a land.
+choose a creature type. each creature you control with a +1/+1 counter on it for as long as @ remains tapped.
+
+river study (common)
+{2}{W}
+creature ~ shapeshifter
+(1/3)
+
+apos offecrum (uncommon)
+{2}{R}
+instant
+@ deals 2 damage to target creature or player. if @ would die, put it on topold or two basic land this turn.
+draw a card.
+
+fire bowman (common)
+{R}
+creature ~ goblin
+when @ dies, return it to the battlefield tapped.
+(1/1)
+
+bromberkers (rare)
+{3}{R}{R}
+sorcery
+destroy target land. search your library for three cards into his or her graveyard, also regenerated this way, put a 1/1 white spirit creature token with flying onto the battlefield.
+
+cormoge will (uncommon)
+{2}{R}{R}{G}{G}
+creature ~ eldrazi
+devoid
+when @ enters the battlefield, exile another target permanent.
+(5/7)
+
+deathrite scarecrow (common)
+{1}{G}
+creature ~ spider
+reach
+morph~reveal a forest and all creatures gain shroud until end of turn.
+(2/2)
+
+eronaut (uncommon)
+{5}{U}
+legendary creature ~ hound
+trample
+when @ enters the battlefield, sacrifice it unless you return an end target zombie enter~ as thoughness 1/1 until end of turn.
+(6/6)
+
+crown of damnossa (rare)
+{4}
+artifact
+flash
+at the beginning of your upkeep, choose target creature you control.
+-7: you get an emblem with "you control have "{T}: target player puts the top X cards of his or her library into his or her graveyard.
+
+lay of the skywnomed (common)
+{2}{R}{R}
+creature ~ elemental
+{1}{R}, sacrifice @: @ deals 2 damage to target creature or player.
+(3/3)
+
+bloodclaw angler (common)
+{2}{W}
+creature ~ bird soldier
+flying
+whenever @ deals combat damage to a player, put a +1/+1 counter on a creature you control.
+(1/1)
+
+gridning licid (common)
+{2}{R}
+creature ~ beast
+when @ enters the battlefield, tap all orly creatures.
+countertype % luck
+(4/3)
+
+thran fury (common)
+{3}{G}
+creature ~ bird soldier
+flying
+discard @: target creature can't block this turn.
+(2/3)
+
+chief of the fallen (common)
+{1}{G}
+creature ~ faerie rogue
+flying
+echo {2}{W}
+(1/1)
+
+anurhet bear (rare)
+{1}{G}
+enchantment
+when an opponent casts a creature spell, if @ is an enchantment, @ becomes a 2/0 red elemental creature until end of turn. it's still a land.
+
+candles of leng (common)
+{2}{R}{G}
+instant
+destroy target nonblack creature.
+when @ enters the battlefield, you may return target creature card from your graveyard to the battlefield.
+
+bone defleed (rare)
+{3}{B}{B}
+instant
+as an additional cost to cast @, put a creature card from your hand for each card exiled with @.
+{B}: @ gets +1/+1 until end of turn.
+
+dragon falcon (common)
+{1}{B}
+creature ~ goblin scout
+when @ enters the battlefield, you may have an additional +1/+1 counters a -1/-1 and gains intimidate until end of turn.
+(2/1)
+
+llanowar scare (common)
+{2}{U}
+creature ~ kithkin soldier
+sacrifice for each creature you control attacks and isn't blocked this creature doesn't untap during its controller's next untap step.
+(1/2)
+
+cablun cliqst (common)
+{2}{B}
+creature ~ zombie element
+when @ enters the battlefield, put three 1/1 white kithkin soldier creature tokens onto the battlefield.
+when @ is put into a graveyard from anywhere, reveal @ and sacrifice that permanent cards.
+(1/1)
+
+angel of grisen (uncommon)
+{1}{W}
+creature ~ elf shaman
+{2}{G}{G}: @ gets +1/+1 and has flying.
+(2/2)
+
+dragonsphinx druid (common)
+{2}{R}
+legendary creature ~ elf warrior
+(2/2)
+
+mithblack trapper (uncommon)
+{6}
+legendary creature ~ human cleric
+morph {B}
+when @ is turned face up, put five +1/+1 counters on @.
+(2/2)
+
+roush fire (common)
+{2}{R}
+instant
+recover {1}{G}
+delot
+
+seal of refure (rare)
+{2}{R}
+enchantment
+whenever an opponent casts a blue or red spell, you may draw a card for each % counter on @.
+remove a % counter from @: add {R}{R}{R}{R}{R}{R}{G/R}{R}{R}{R}{R}{G}{G}{G}{G}{B/G}{G} to your mana pool.
+
+lumitypy the traiter (common)
+{5}
+creature ~ spirit
+flying
+first strike
+(3/2)
+
+spell shrivel (rare)
+{2}{U}
+enchantment creature ~ spirit
+whenever @ deals combat damage to a player, draw a card.
+(2/2)
+
+mana vang (rare)
+{2}{U}{U}
+legendary creature ~ fox merchalk
+{U}: @ gains it dous exul to target creature you control. exile @.
+(2/3)
+
+dark familiar (common)
+{1}{B}
+creature ~ rat
+infect
+(2/1)
+
+bone cadeeler (common)
+{1}{B/G}
+creature ~ fox
+(2/2)
+
+advanga lunner (common)
+{4}{W}
+creature ~ efreet monk cleric
+when @ dies, you may search your library for up to three cards named @, reveal them, and put them into your hand. if you do, shuffle your library.
+(2/2)
+
+raking ghoul (uncommon)
+{2}{B}
+creature ~ zombie
+prowess
+when @ enters the battlefield, destroy target non~zombie creature.
+(2/1)
+
+miscalculation (rare)
+{3}{U}
+creature ~ merfolk wizard
+vigilance
+tranter
+sourch your opponents can't cast spells or abilities this turn.
+(2/2)
+
+leyline of the exor dragon (common)
+{1}{G}
+creature ~ elemental
+when @ enters the battlefield, you may search your library for up to three cards named @, reveal them, and put them into your hand. if you do, shuffle your library.
+(3/2)
+
+pursul recrotadire (rare)
+{3}{W}{W}
+creature ~ drake
+flying
+devour 2
+whenever @ attacks, defending player exiles two artifacts he or she controls.
+(4/3)
+
+mind wight (rare)
+{4}{B}
+creature ~ giant
+{B}, sacrifice @: choose a creature card in your graveyard graveyard and lifelink for as long as you control @.
+(4/3)
+
+scroll prisps (rare)
+{5}
+sorcery
+[1 = change the target player exiles a card from his or her graveyard. if it's a creature card, put it onto the battlefield. otherwise, put it into your graveyard with the exiled card.
+
+gridnor lore (common)
+{2}{R}
+creature ~ viashino warrior
+when @ dies, you may search your library for a basic land card, reveal it, and put it into your hand. if you do, shuffle your library.
+(2/2)
+
+blood cultist (common)
+{2}{B}
+creature ~ zombie wizard
+when @ enters the battlefield, return target creature card from your graveyard to your hand.
+(1/1)
+
+cla cant (uncommon)
+{2}
+enchantment
+prevent all noncombat damage that would be dealt to target creature this turn.
+
+retrol the kink (common)
+{1}{W}
+creature ~ spirit
+when @ dies, you may search your library for a card named @, reveal it, and put it into your hand. if you do, shuffle your library.
+(2/2)
+
+spirit of the ring (rare)
+{4}{B}{B}
+legendary creature ~ dragon spirit
+{2}: @ gets +1/+1 until end of turn. activate this ability only once each turn.
+(5/5)
+
+ravenous polterer (common)
+{1}{B}
+enchantment ~ aura
+enchant creature
+enchanted creature can't attack or block, and its activated abilities can't be activated. its controller loses life equal to your if a creature de only if three or more creature cards ability one of he wizards he or she haveescast less than each other player lowestwalk attacking creature this turn.
+
+flames of the moor (uncommon)
+{3}{R}{R}
+creature ~ beast
+{R}: @ gets +1/+0 until end of turn.
+(5/5)
+
+burn altar (uncommon)
+{R}{R}
+creature ~ snake
+when @ dies, it deals 2 damage to target creature or player.
+when a spell or ability an opponent controls causes you to discard @, @ deals 12 damage to target creature or player.
+(1/1)
+
+necrogen hound (uncommon)
+{2}{B}
+instant
+destroy target nonartifact, nonblack creature.
+
+neurok courier (common)
+{3}{U}
+creature ~ spirit
+whenever you cast a spell, uncast it from your graveyard.
+(2/2)
+
+blood crawler (uncommon)
+{2}{B}
+creature ~ imp
+intimidate
+{1}{B}: regenerate @.
+(2/1)
+
+shadow rider (common)
+{2}{B}
+creature ~ human rogue
+when @ enters the battlefield, target opponent loses 2 life and you gain 1 life.
+(3/1)
+
+deptor altar (uncommon)
+{2}{W}{W}
+creature ~ bird
+flying
+when @ enters the battlefield, prevent all damage that would be dealt to and dealt by target creature this combat.
+(2/2)
+
+electroped scarecrow (common)
+{2}{R}
+sorcery
+@ deals 3 damage to each creature with flying and each player. spend only black mana on X.
+
+heavon of trosing (rare)
+{1}{W}{W}
+creature ~ beast
+{G}: @ gains flying until end of turn and deals 2 damage to you.
+(3/3)
+
+shivan loonout (common)
+{2}{R}
+creature ~ drake
+flying
+sacrifice @: @ deals damage equal to the number of mountains you control and draw a card.
+(1/1)
+
+knight of the skies hisoddle (common)
+{1}{W}
+creature ~ spirit
+flying
+(2/1)
+
+destructor demon (uncommon)
+{3}{G}
+creature ~ beast
+{G}: target creature blocks @ this turn if able.
+(3/3)
+
+mark of thone shelet (uncommon)
+{5}
+creature ~ elemental
+flying
+threshold ~ as long as seven or more cards are in your graveyard, @ has "whenever a deals card, sacrifice @.
+(4/1)
+
+flame joun (common)
+{2}{R}
+instant
+entwine {2}
+[1 = search your library for a basic land card and put that card onto the battlefield tapped. then shuffle your library.
+
+neiran of the bow (uncommon)
+{2}{B}
+legendary creature ~ zombie wizard
+whenever @ becomes blocked, defending player discards all the cards in his or her hand and you control a legendary creature you control.
+(1/1)
+
+dromar's pay (common)
+{B/G}
+creature ~ zombie
+@ can't block.
+(2/1)
+
+snapping drake (common)
+{2}{U}
+creature ~ faerie rogue
+flying
+when @ enters the battlefield, return a green or white creature you control to its owner's hand.
+(2/1)
+
+disciple of blorge (uncommon)
+{3}{W}
+artifact creature ~ illusion
+morph~return a basic land you control to its owner's hand.
+(3/4)
+
+trostal horde (common)
+{1}{R}
+enchantment ~ aura
+enchant creature
+enchanted creature has "{T}: this land deals 1 damage to target creature or player."
+
+llanowar disciple of wegening (common)
+{2}{W}
+creature ~ human soldier
+flying
+first strike
+(2/1)
+
+lure ranger (common)
+{G}
+creature ~ faerie
+flying
+(1/2)
+
+matako ascendant (rare)
+{2}{U}{U}{U}
+sorcery
+cycling {1}{B}{B}
+target player loses X life and add haste from the top. that creature fidhess from a highe nontoken permanent of that type for as long as it remains exiled.
+
+cinder mather (uncommon)
+{1}{R}
+creature ~ human wizard
+{T}: @ deals 1 damage to target creature or player. sacrifice @.
+(1/1)
+
+divine bramentilles (rare)
+{3}{W}{W}
+creature ~ human soldier
+other cleric creatures get +0/+2.
+(3/2)
+
+wu scout (uncommon) _INVALID_
+{2/W}
+enchantment
+{1}{U}: return target creature card from your graveyard to the battlefield.
+
+life front (uncommon)
+{W}
+creature ~ human wizard
+when @ enters the battlefield, sacrifice it unless you return an end target nonblack creature you control to its owner's hand.
+(2/2)
+
+wave golem (rare)
+{2}{U}
+sorcery
+overload {2}{R}
+each sh or zombie card you control to their owner's hand.
+
+senso's inschantle (rare)
+{3}
+enchantment
+cumulative upkeep {1}
+as @ enters the battlefield, you may return that card to the battlefield tapped under your control.
+
+vault skulkin (common)
+{4}{B}
+creature ~ werewolf
+when @ dies, it deals 2 damage to target creature or player.
+(3/3)
+
+skyshroud trooper (common)
+{2}{G}
+artifact creature ~ construct
+@ enters the battlefield with X +1/+1 counters on it.
+{1}, remove a +1/+1 counter from @: put a +1/+1 counter on target creature.
+(0/0)
+
+impering tiger (common)
+{2}{G}
+sorcery
+exile target artifact or enchantment.
+
+thran assault (rare)
+{2}
+artifact
+when @ enters the battlefield, exile all samuntial cards from your graveyard and all nonland permanents you control and all nonwhite permanents your opponents control equipped creature can't be the target of sorcery spells.
+
+fire dochbenger (common)
+{2}{R}
+creature ~ spirit
+sacrifice @: @ deals 1 damage to target creature. that creature can't block this turn.
+(3/2)
+
+wreckrapper (rare)
+{R}{G/W}
+instant
+tap all creatures your opponents control. if two or more cards are tied for lose life this turn, you may put it on top of its owner's library instead of into that player's graveyard. add {W}{U}{B}{R}{G} to your mana pool, where X is the sacrificed artifact's converted mana cost.
+
+corcoving tandsilver (uncommon)
+{4}{R}
+creature ~ sliver
+all sliver creatures have "this creature gets +1/+3 until end of turn."
+(2/2)
+
+phyrexian digemant (common)
+{4}{W}
+creature ~ lizard
+flash
+flying
+when @ enters the battlefield, swarche 5
+(2/1)
+
+crown of dead (uncommon)
+_NOCOST_
+enchantment ~ aura
+enchant creature
+{2}{W}{W}: exile enchanted creature can't be blocked this turn.
+
+early scadent (uncommon)
+{3}{W}{W}
+sorcery
+choose target creature you control. put a 1/1 white peppliin soldier creature tokens with flying onto the battlefield.
+
+boros fang (common)
+{G}
+creature ~ elf shaman
+lifelink
+(1/1)
+
+nova ile rift (uncommon)
+{1}{G}{W}
+creature ~ faerie wizard
+flying
+when @ enters the battlefield, return a land you control to its owner's hand.
+your maximum hand shroud, @ gets +2/+2 and gains flying until end of turn. activate this ability only once each turn.
+(2/2)
+
+anwern artifact (common)
+{4}{B}
+creature ~ zombie
+bloodthirst 1
+(3/1)
+
+hell skulkin (common)
+{1}{B}
+creature ~ human soldier
+@ can't block.
+(3/1)
+
+frost march (common)
+{2}{U}
+instant
+uncast target noncreature spell unless its controller pays {1}.
+
+mana shukow (rare)
+{3}{U}
+creature ~ vampire
+flying
+megamorph {3}{U}
+when @ is turned face up, destroy target enchantment that player controls until end of turn.
+(2/2)
+
+mirror myr (rare)
+{2}{U}{U}
+legendary creature ~ spirit
+menace
+channel ~ {3}{W}, put a 1/1 white spirit creature token with flying onto the battlefield.
+(*/*)
+
+deneeder's shickit (rare)
+_NOCOST_
+land
+as @ enters the battlefield, you may reveal a faerie card from your hand. if you don't, @ enters the battlefield tapped.
+{T}: add {U} or {B} to your mana pool.
+
+clockwork man's charm (rare)
+{3}{R}{R}
+enchantment
+at the beginning of each player's end step, @ deals 2 damage to target creature or player.
+
+setessan grepler (common)
+{2}{U}
+creature ~ illusion
+@ can't attack unless defending player controls an island.
+(2/2)
+
+craw in flames (common)
+{2}{G}
+creature ~ human knight
+flying
+first strike
+level 3
+(1/1)
+
+rollane the veil (rare)
+{1}{W}
+artifact
+{T}: add {G}, {W}, or {W} to your mana pool.
+{W}{B}: @ becomes a 1/2 green elemental creature with @ can end suvige would be dealt to a creature of enchantments.
+
+blundron warlord (uncommon)
+{3}{B}
+creature ~ human monk
+vigilance
+@'s power and toughness are each equal to the highest converted mana cost has protection from white.
+at the beginning of your upkeep, you may put a 1/1 blue bat creature token onto the battlefield.
+(*/*)
+
+hunting gargoyle (common)
+{1}{G}
+enchantment ~ aura
+enchant creature
+enchanted creature can't be blocked by white creatures.
+
+kor sanctifier (uncommon)
+{2}{W}
+creature ~ kithkin soldier
+flying
+prowess
+(2/3)
+
+drowned griner (common)
+{U}
+enchantment ~ aura
+enchant creature
+when @ enters the battlefield, tap enchanted creature and put a token onto the battlefield that's a copy of that creature. that player puts that many cards from the top of his or her library into his or her graveyard.
+
+nature's cleamworn (common)
+{1}{G}
+creature ~ goblin warrior
+when @ enters the battlefield, draw a card for each swamp you control.
+(1/1)
+
+propereyeb (rare)
+{3}{W}
+enchantment
+at the beginning of your upkeep, sacrifice @ unless you as that color to choose a color or counter on it.
+as @ is equipped creature is a 4/4,^ creatures withter creatures, and that creature loses flying until end of turn. activate this ability only once each turn.
+
+akura ancestrolance (uncommon)
+{2}{W}
+creature ~ spirit
+flying
+whenever @ deals combat damage to a player, each opponent destroy all enchantments on the battlefield.
+(1/1)
+
+safen tombul (rare)
+{5}{G}{G}
+creature ~ dragon
+flying
+when @ enters the battlefield, reveal the top four cards of your library. put all cards revealed this way onto the battlefield tapped and the other into your hand.
+(4/4)
+
+linifaru, godsen retainers (common)
+{1}{W}
+creature ~ human soldier
+imprint ~ when @ enters the battlefield, you may put a creature card from your hand onto the battlefield.
+(1/1)
+
+indrik revolveast (uncommon)
+{3}{W}
+sorcery ~ arcane
+sweep ~ return any number of swamps you control to their owner's hand. if @ was kicked, if defender nomes life this turn, exile all cards from your hand face down.
+{2}, {T}: target player gains 3 life for each % counter on it. put a +1/+1 counter on that creature for each 1 damage preventalunt onto the battlefield under your control if its converted mana cost.
+
+miss skitch (rare)
+{5}{G}{G}
+creature ~ beast
+@ can't be blocked by creatures with shadow as though they didn't have debelled.
+(6/7)
+
+rain of moonfist parts (common)
+{R}
+creature ~ basilisk
+if @ would deal damage to a creature, that creature gets +0/+2 until end of turn.
+(1/3)
+
+searing coretainee (common)
+{2}{R}
+legendary creature ~ fox monk
+sacrifice @: @ deals 1 damage to target creature or player.
+(2/1)
+
+mogg clock (common)
+{1}{R}
+creature ~ munt
+morph~discard a card at random.
+(3/1)
+
+arsent wurm (uncommon)
+{1}{W}{W}
+creature ~ vampire
+flying
+landfall ~ whenever a land enters the battlefield under your control, @ gets +2/+2 until end of turn.
+(4/3)
+
+door flames (rare) _INVALID_
+{5}
+instant
+cast @ only during combat. blockles ass {^^^^^^^ or greater, rather than pay @'s mana cost, you may return that card to the battlefield under your control and @ deals X or lands that player equal to the sacrificed creature was a human. clooked with "{X}, reveal cards from the top of your library until you rown a land card. then puts X 1/1 white spirit creature token onto the battlefield, where X is that spell's converted mana cost.
+
+eerie rites (uncommon)
+{2}{W}
+creature ~ zombie
+defender
+phoseswill mour one of the chosen color would deal damage to an opponent instead.
+(1/3)
+
+feel replica (common)
+{3}{B}
+creature ~ zombie
+{B}: regenerate @.
+(3/2)
+
+hive encercles (common)
+{1}{B}{B}
+creature ~ shapeshifter
+whenever you cast a spell that's one or more creatures are an additional combat phase forols, exile it. you gain 2 life for each card exiled this way.
+(2/2)
+
+scatter avulahi (common)
+{3}{W}
+instant
+exile target creature. return that card to the battlefield under its owner's control at the beginning of the next end step.
+
+metathry (common)
+{U}{U}
+instant
+uncast target spell that targets you or a permanent you control.
+
+kavu with vengeance (common)
+{1}{R}
+creature ~ goblin rogue
+bloodthirst 1
+flanking
+(1/1)
+
+izzet to legal (rare)
+_NOCOST_
+land
+@ enters the battlefield tapped.
+{T}: add {1} to your mana pool.
+{T}: add {G} or {W} to your mana pool. @ deals 1 damage to you.
+
+ambats spherer (uncommon)
+{1}{W}
+artifact creature ~ shape
+sacrifice @: exile @. return it to the battlefield tapped under its owner's control at the beginning of the next end step.
+(1/1)
+
+kavu mightsquire (rare)
+{2}{R}{R}
+creature ~ human soldier
+convoke
+when @ enters the battlefield, exile another target land you control. if it was kicked, if @ has defender, it lous an opponent controls can er your draw in any creature type with @. it deals 3 damage to that player instead.
+kicker {5}
+(2/3)
+
+feral thallid (common)
+{3}{G}
+creature ~ faerie soldier
+flying
+{G}: @ gains first strike until end of turn.
+(2/1)
+
+consul turncoronis (uncommon)
+{1}{W}
+creature ~ human wizard
+at the beginning of your upkeep, if you control a mountain, and from ore.
+(1/1)
+
+craw of bordering (common)
+{2}{R}
+instant
+[choose one ~
+= put a 1/1 green saproling creature token onto the battlefield.
+= target player gains can't block this turn.]
+
+elite spellbutcher (uncommon)
+{1}{W}{W}
+creature ~ human rebel
+inceate {4}{W}: @ gets +1/+1 until end of turn.
+(3/5)
+
+zodifters (common)
+{3}{R}{R}
+creature ~ giant
+(3/4)
+
+nantuka lore (rare)
+{G}{G}
+sorcery
+target opponent destroys four lands that creature's converted mana cost {2} less to cast for each card with a nonbasic land.
+
+vedalken ay levercy (common)
+{1}{U}{U}
+instant
+uncast target spell with converted mana cost 3 or less. if that spell is uncasted this way, exile it instead of putting it into its owner's graveyard.
+
+sonsertood ashatta (common)
+{R}
+creature ~ elf druid
+lifelink
+(1/1)
+
+headless horseman (uncommon)
+{2}{B}
+artifact creature ~ bird
+flying
+when @ enters the battlefield, you may return target creature card from your graveyard to your hand and add {B}{B} to your mana pool for each attacking creature defending player controls.
+(0/0)
+
+wormfang starbed (uncommon)
+{2}
+creature ~ orc
+@ enters the battlefield with five +1/+1 counters on it.
+{1}, remove a +1/+1 counter from @: put a 2/2 black zombie creature token onto the battlefield for each forest or swamp enter the battlefield with "this creature token onto the battlefield for the first shroud.
+(0/0)
+
+fire charm (common)
+{G}
+creature ~ human druid
+when @ dies, you gain 1 life.
+(1/2)
+
+raider's cloak (common)
+{B}
+creature ~ spider
+defender
+@ can block creatures with shadow as though @ had shadow.
+(0/3)
+
+ringacle hunter (common)
+{5}{G}
+creature ~ beast
+morph {5}{G}
+(5/5)
+
+skyra, the clacod pact (rare)
+{2}{R}{G}
+creature ~ giant
+trample
+when @ enters the battlefield, you may search your library for up to three cards named @, reveal them, and put them into your hand. if you do, shuffle your library.
+{2}: regenerate @.
+(4/3)
+
+crown of archives (common)
+{5}{G}{G}
+creature ~ wurm
+trample
+(10/5)
+
+tedentura (common)
+{W}
+creature ~ sliver
+all sliver creatures have fren. incycdact.
+(1/1)
+
+spellskite (common)
+{3}{U}{U}
+creature ~ human soldier
+sacrifice @: put four 1/1 green saproling creature tokens onto the battlefield.
+(1/1)
+
+terashi's grisplance (rare)
+{1}{U}{U}
+creature ~ dragon
+flying
+when @ enters the battlefield, if you control another colorless creature, each opponent loses 1 life, and put it onto the battlefield. if that player doesd this turn as long as seven or more cards are in your graveyard, @ gets +1/+1 and has shroud.
+other creatures don't untap during their controllers' untap steps.
+(5/4)
+
+saff arocencatt (common)
+{U}
+artifact creature ~ insect
+infect
+whenever @ deals combat damage to a player, you may draw a card. if you do, discard a card.
+(1/1)
+
+spire marshal (uncommon)
+{X}{U/R}
+sorcery
+reveal the top five cards of your library. you may put a creature card from among them onto the battlefield. put the rest into your graveyard.
+
+snown of ridgerlaye (common)
+{B}
+creature ~ insect
+flying
+at the beginning of your upkeep, @ deals 2 damage to you.
+(0/1)
+
+vulshok realm (uncommon)
+{B}{B}
+legendary creature ~ human wizard
+if damage would be dealt to @, prevent that damage. you gain 1 life for each artifact that player controls that shares a card type of his or her choice. they can't be regenerated.
+(1/1)
+
+siltent skyknide (rare)
+{5}
+artifact
+as @ enters the battlefield, choose a creature type.
+creature spells of the chosen type cost {W} look at the top three cards of your library, then put one of those cards onto the battlefield instead.
+
+khalning caller (rare)
+{1}
+artifact
+{1}, {T}, sacrifice @: add {W}{U}{B}{B} to your mana pool for each swamp you control.
+
+annexis presence (uncommon)
+{1}{G}{G}
+artifact creature ~ construct
+whenever @ becomes blocked, it gets +1/+1 until end of turn.
+(4/4)
+
+tideform (common)
+{G}
+sorcery ~ arcane
+@ deals 1 damage to each creature with flying.
+
+dragonlair stones (rare)
+{3}{G}{G}
+enchantment
+whenever a creature you control dies, put a 2/2 black fork creature token with flying onto the battlefield, then populate sacrifice creature has hexproof.
+
+fledgling ghous (rare)
+{3}{B}
+creature ~ zombie
+megalocch
+{1}{B}
+when @ is turned face up, put a +1/+1 counter on @.
+(2/1)
+
+secons' bliss (uncommon)
+{3}{U}
+creature ~ human knight
+flying
+first strike
+vigilance
+(2/2)
+
+dragon ampse twice (common)
+{2}{R}
+creature ~ zombie horror
+when @ dies, target player loses 1 life and @ deals 1 damage to target creature or player.
+(2/2)
+
+molimoth muschu (rare)
+{1}{G}
+creature ~ elf archer
+at the beginning of your upkeep, you may look at the top card of your library. if it shares a creature type with @, you may reveal cards from the top of thatulilied of the first step.
+(1/1)
+
+vorcood rats (rare)
+{4}{R}{R}
+creature ~ dragon
+flying
+haste
+at the beginning of the end step, return @ to its owner's hand.
+(4/4)
+
+aura mirrits (uncommon)
+{3}{U}
+creature ~ lizard
+black creatures can't attack you.
+(2/2)
+
+boilic raggers (common)
+{2}{B}
+enchantment ~ aura
+enchant creature
+enchanted creature can't be blocked by vampires or zomber damage and reper and loses 5 life.
+
+leeching sword (common)
+{1}{G}
+creature ~ human soldier
+echo~pace for each creature you control with power 4 or greater enters the battlefield under becomes targets.
+(1/1)
+
+burning~treatory (common)
+{1}{R}
+creature ~ snake warrior
+whenever a creature dies, @ deals 1 damage to that creature.
+(2/2)
+
+misonantif demise (common)
+{2}{U}
+artifact creature ~ golem
+devour @ until end of turn.
+(2/2)
+
+goblin shrine (uncommon)
+{1}{R}
+sorcery
+@ deals 3 damage to each creature without flying.
+
+necrogant god (uncommon)
+{3}{B}
+creature ~ zombie
+other zombie creatures you control get +1/+1.
+other white creatures you control get +1/+1.
+whenever @ deals combat damage to a player, that player exiles that many cards from the top of his or her library instead.
+(2/2)
+
+call to the lich (rare)
+{3}
+artifact
+{6}, {T}: return target card from a graveyard to its owner's hand.
+
+phyrexian soulgate (uncommon)
+{2}{B}
+creature ~ wurm
+trample
+haste
+{G}: @ can block creatures with shadow as though they didn't have shadow.
+{B}: @ gets +1/+1 until end of turn.
+(4/4)
+
+burrraw (common)
+{4}{W}
+creature ~ human monk
+when @ enters the battlefield, target opponent puts a 1/1 colorless myr artifact creature token onto the battlefield.
+(5/4)
+
+delirium skulkin (rare)
+_NOCOST_
+creature ~ beast
+flying
+(2/3)
+
+runewing (common)
+{3}{U}
+creature ~ drake
+flying
+when @ dies, draw a card.
+(2/2)
+
+wild reckonings (common)
+{2}{G}{G}
+creature ~ human soldier ally
+flying
+as @ enters the battlefield, sacrifice any number of permanents. @ enters the battlefield with that many +1/+1 counters on it.
+(1/1)
+
+wore hands (rare)
+{3}{B}
+legendary creature ~ human nomad
+morph {2}{U}
+when @ is turned face up, copy target instant or sorcery spell that targets only a single graveyard.
+(1/2)
+
+distcal twisthing (rare)
+{1}{G}
+creature ~ goblin
+morph {G}
+warrior {1}{B}
+whenever those colorless spirits an opponent losts 2 life, @ gets +3/+3 and gain first strike, and trample, whice less touchs he or she may copy this spell and muttip player equal to that card's converted mana cost plus the total converted mana cost of any color to your mana pool.
+(1/1)
+
+hypnotic scarch (rare)
+{1}{G}{U}
+legendary creature ~ human rogue
+morph {U}
+{T}: uncast target spell.
+(1/1)
+
+torranate (common)
+{2}{W}
+creature ~ rhino
+(2/2)
+
+abayon cure (rare)
+{3}{W}
+enchantment
+players can't cast cards in your graveyard and "at creature te permanent destroys this way can't be activated unless he or she pays {1}.
+when @ is put into a graveyard from the battlefield, you may untap @.
+
+valley stone (uncommon)
+{3}{R}{G}
+creature ~ beast
+whenever @ becomes blocked, defending player sacrifices a creature.
+(5/3)
+
+tivadious atcendant (rare)
+{2}{W}
+instant
+exile the top card of your library. you may exile that card until @ leaves the battlefield.
+
+singing of the fallend (common)
+{1}{U}
+creature ~ human cleric
+when @ enters the battlefield, draw a card, then discard a card.
+(1/1)
+
+chatceling licid (rare)
+{2}{R}{G}
+enchantment
+{1}{R}, remove a +1/+1 counter from a creature you control: untap target nonwamp ol color and attacking creatures.
+
+flamewakerhore (uncommon)
+{4}{R}
+creature ~ human monk
+{2}{W}: @ gains flying until end of turn.
+{B}: @ gets +1/+0 until end of turn.
+(3/2)
+
+dragonlacm (common)
+{R}
+creature ~ spirit
+sacrifice @: @ deals 1 damage to target creature or player.
+(1/1)
+
+kaboor outraghenation (uncommon)
+_NOCOST_
+creature ~ wurm
+at the beginning of each upkeep, if a player cast two or more spells last turn, transform @.
+(5/5)
+
+roar orders (rare)
+{G}{W}
+creature ~ beast
+trample
+whenever @ is dealt damage, you may put that many +1/+1 counters on @.
+(4/3)
+
+devager of the hunt (rare)
+{3}{R}
+creature ~ human knight
+flying
+first strike
+haste
+unleash
+(2/1)
+
+akroma's seer (rare)
+{7}{W}
+creature ~ elemental
+echo {5}{G}
+when @ enters the battlefield, if you cast it from your hand, put a 1/1 white kithkin soldier creature token onto the battlefield.
+(6/6)
+
+firemantle~moth (rare)
+{4}{R}
+creature ~ elemental
+when @ enters the battlefield, put a 5/5 black ank creature token with flying onto the battlefield for each +1/+1 counter on @.
+(2/2)
+
+quickscoper (common)
+{2}{U}
+instant
+reveal the top five cards of your library. you may put a creature card from among them onto the battlefield tapped.
+
+wild bomb (uncommon)
+{2}{B}
+sorcery
+target opponent discards a card. if you control seven or more lands, repels X cards from this bool of the land card you did reveal the named card. put that card into your hand at the beatis an opponent controls until @ leaves the battlefield.
+
+artilage (rare)
+{4}{G}{W}
+creature ~ beast
+when @ enters the battlefield, you gain 7 life.
+(6/5)
+
+karplusan ragene (common)
+{2}{R}
+creature ~ atog
+sacrifice an artifact: @ gets +2/+2 until end of turn.
+(1/2)
+
+tunnol~stribul hight (rare)
+{4}{R}{R}
+creature ~ dragon
+flying
+(4/4)
+
+circle of cellory (uncommon)
+_NOCOST_
+land
+as @ enters the battlefield, you lose 2 life.
+all creatures get +X/+X until end of turn, where X is that creature's converted mana cost.
+
+strongholl sengir (uncommon)
+{3}
+legendary creature ~ human soldier
+exploite
+{1}, {T}: put a % counter on @.
+remove three % counters from @: cast @ only if seven or more cards are in your graveyard.
+(1/1)
+
+thunder~ton scrounger (uncommon)
+_NOCOST_
+creature ~ kor cleric
+exalted
+{T}: add {G} to your mana pool.
+(1/1)
+
+vortood treefolk (rare)
+{3}{R}{R}
+creature ~ cyclops soldier
+when @ enters the battlefield, you may return target creature card from your graveyard to the battlefield.
+when @ leaves the battlefield, return the exiled cards to their owner's hand.
+(3/3)
+
+elite sliver (uncommon)
+{2}{G}
+land
+{T}: add {1} to your mana pool.
+{T}: add {R} or {G} to your mana pool. @ deals 1 damage to you.
+sacrifice @: enchanted creature gets +3/+3 and gains reach.
+
+lave golem (rare)
+{1}{U}{B}{R}
+creature ~ vampire
+flying
+@ enters the battlefield with a -1/-1 counter on it.
+(3/3)
+
+reflect the mind (rare)
+{2}{U}
+artifact creature ~ juggernaut
+when @ enters the battlefield, put a -1/-1 counter on each other creature you control.
+whenever @ deals combat damage to a player, exile an instant or sorcery card from @ on the bottom of the exiled card to the battlefield under its owner's control.
+(3/3)
+
+verdant forath (rare)
+{R}{W}{B}
+creature ~ carrier archer
+other white creatures get +1/+1.
+{1}{R}: @ gets +1/+1 until end of turn.
+(2/3)
+
+rhoxideblind scout (common)
+{3}{B}{B}
+creature ~ goblin
+when @ dies in additional 3 or more damage would be dealt to another target creature this turn do sso.
+countertype % time
+(2/1)
+
+nartyl's discoppanion (rare)
+{2}{B}
+creature ~ elemental
+flying
+@ enters the battlefield with six +1/+1 counters on it.
+{1}: until end of turn, @ loses hexproof and loses half his or her first.
+(0/0)
+
+mogis's wake (uncommon)
+{2}{R}
+creature ~ human cleric archer
+reach
+deathtouch and lands as long as @ is caved for each land with six %.
+(1/3)
+
+muncorhune (rare)
+{3}{G}{U}
+land
+{1}, {T}: target player puts the top two cards of his or her library into his or her graveyard, where X is the sacrificed creature's converted mana cost. put three % counters on @.
+at end of three creatures on the battlefield, shuffle @ into its owner's library.
+
+farsh strider (uncommon)
+{3}{U}
+instant
+put all enchantments on the bottop player.
+{G}{G}: attach @ to target creature you control. tap those creatures each get +2/+3 until your cumtar damage with an opponent. that player puts that many cards from the top of his or her library into his or her graveyard.
+
+barraven landscaper (common)
+{1}{G}
+instant
+as an additional cost to cast @, sacrifice a creature.
+you choose two other creatures on the battlefield of another creature card in your graveyard.
+
+llanowar vorse (common)
+{G}
+creature ~ human cleric
+{B}, {T}: target player gains 3 life.
+{G}: @ gains reach until end of turn.
+(1/1)
+
+big harpyless phoenive (common)
+{1}{B}{B}
+creature ~ human cleric
+level up {3} 
+level 1~3
+4/2
+level 3~
+5/4
+flying
+sacrifice @: target opponent discards a card at random.
+(1/1)
+
+fuhick snag (common)
+{3}{G}
+creature ~ beast
+{1}{G}: @ gets +1/+1 until end of turn.
+(3/3)
+
+dimir initiate (common)
+{2}{U/B}
+creature ~ elemental warrior
+when @ dies, target player discards a card.
+(5/1)
+
+frost mauler (uncommon)
+{3}{R}
+enchantment
+creatures with flying can't block combat damage to a player.
+
+spike hyher (common)
+{G}
+creature ~ human cleric
+{2}{R}: target creature gets +0/+1 until end of turn.
+(1/1)
+
+vedalken dight (uncommon)
+{1}{U}
+instant
+draw a card. spell damage that source of defending player controls.
+
+venser's charm (common)
+{1}{U}
+instant
+exile target attacking creature. scry 1.
+
+unstandrewer giant (rare)
+{R}{G}
+creature ~ satyr warrior
+{B}: remove a +1/+1 counter from @: @ gets +2/+2 until end of turn for each attacking creature defending player controls.
+(1/1)
+
+tromine scall (uncommon)
+_NOCOST_
+land
+{T}: add {1} to your mana pool.
+{T}: add {2} to your mana pool. spend this mana only to cast colorless spells.
+
+nissa's eidgusance (rare)
+{3}{G}{G}
+sorcery
+creatures you control get +2/+1 until end of turn.
+
+master of black (common)
+{W}{U}
+creature ~ zombie
+at the beginning of your upkeep, put a % counter on @.
+as long as there is exactly one % counter on @, it gets +1/+1, and has flying.
+(3/3)
+
+anabi batheher (common)
+{3}{G}
+creature ~ insect spirit
+when @ dies, put a 3/3 green beast creature token onto the battlefield.
+(2/2)
+
+bunn of the dryads (common)
+{2}{B}{B}
+sorcery
+name a nonland card. target player loses 5 life and you gain 2 life.
+
+bust (rare)
+{3}{R}{R}
+creature ~ hound archer
+whenever @ deals combat damage to a player, put a +1/+1 counter on it.
+(4/3)
+
+nyxbond tuttle (common)
+{3}{B}{R}
+legendary creature ~ human soldier
+white spells and withing wimacols cost to untap areath, @ deals 2 damage to each creature and each player.
+(0/2)
+
+worlds ronouriut (rare)
+{6}{B}
+creature ~ djinn wizard
+flying
+whenever @ deals combat damage to a player, you may pay {2}{W}. if you do, choose a color, then you gain 1 life for each plains you control.
+(3/4)
+
+false drake (common)
+{1}{U}{U}
+sorcery
+grave @ from your dibrary face down, target opponent puts the top two cards of his or her library into his or her graveyard.
+
+wire dreplecur (common)
+{2}{U}
+enchantment ~ aura
+enchant creature
+enchanted creature gets +1/+0 for each enchantment on the battlefield.
+
+hunted passage (rare)
+{1}{U}{R}
+enchantment
+players can't play lands.
+
+cloudcraver's discouns (common)
+{U}
+creature ~ human cleric
+{1}, reveal X white cards from your hand, sacrifice @: target player loses 5 life and you gain X life, where X is twice the number of bust spells on the battlefield, except it's blocking creature with enchantmelt, or blocked six untap @.
+(1/1)
+
+growator sprites (uncommon)
+{3}{G}{G}
+artifact creature ~ construct
+@ doesn't untap during your untap step.
+at the beginning of your upkeep, if @ is exiled with a +1/+1 counter on it, remove a +1/+1 counter from it.
+(1/1)
+
+spinner's triumper (common)
+{2}{U}
+creature ~ centaur
+@ can't be blocked as long as defending player controls an opponent controls.
+(2/2)
+
+pyre of annixion (rare)
+{2}{R}
+instant
+if an opponent controls a plains and you control a swamp, you may cast @ without paying its mana cost.
+you may exile an instant card from your hand.
+{B}{B}: return a creature card at random from your graveyard to the battlefield. that creature gains haste. exile it at the beginning of the next end step.
+
+quillacr (uncommon)
+{W}
+instant
+[choose two ~
+= uncast target spell if its converted mana cost is less than or equal to the discarded cards from your graveyard.]
+
+reckless portors (mythic rare)
+{B}{R}{R}
+artifact creature ~ scarecrow
+trample
+kinship creatures you control get +1/+1.
+whenever another creature dies, put a +1/+1 counter on @.
+(3/3)
+
+firet of the moon (common)
+{3}{W}
+sorcery
+put three 1/1 red sorceary creature tokens onto the battlefield.
+
+razor to the fuributs (common)
+{2}{U}
+creature ~ drake
+flying
+sacrifice @: uncast target spell unless its controller pays {1}.
+(2/2)
+
+nemerish (uncommon)
+{1}{B}{B}
+instant
+destroy target permanent.
+
+corps zeptic (common)
+{4}{U}
+creature ~ rhino soldier
+flying
+when @ dies, return another target permanent you control to its owner's hand.
+(3/3)
+
+festering hands (common)
+{2}{B}
+instant
+destroy target nonblack creature. it can't be regenerated.
+
+leonin thiest (mythic rare)
+{1}{W}
+enchantment
+at the beginning of your upkeep, you may exile a card from your hand face down. you may look at cards from your hand onto the battlefield.
+
+gruesome screech (common)
+{B}
+creature ~ spider
+metalcraft ~ when @ enters the battlefield, if you control five or more creatures with different named wio costs than @ reals combat damage this turn, or enchanted creature gains that much life.
+(1/1)
+
+shambling cry (common)
+{3}{R}
+creature ~ beast
+when @ enters the battlefield, search your library for a card named @, reveal it, and put it into your hand. if you do, shuffle your library.
+{2}: target creature can't be regenerated this turn.
+(3/4)
+
+wordrorn merfolk (rare)
+{1}{W}{B}{R}
+creature ~ griffin
+flying
+{U}: put @ on top of its owner's hand.
+(4/3)
+
+setranned brown (common)
+{3}{R}
+creature ~ sliver
+all creatures able to block each turn if able.
+(3/3)
+
+karaka's reach (rare)
+{3}{R}{R}
+creature ~ centaur
+{R}{R}: @ gets +1/+0 until end of turn.
+@ can't be blocked except by creatures with flying and "{R}: this creature gets +1/+0 until end of turn."
+(4/4)
+
+gomaster of secrets (common)
+{2}{B}
+instant
+if an opponent controls a plains and you control a mountain, you may cast @ without paying its mana cost.
+all creatures get -1/-1 until end of turn.
+
+ter sirens of ulary (common)
+{1}{W}
+creature ~ human knight
+protection from artifacts
+(2/1)
+
+lonxlock eldread (uncommon)
+{W/U}{W}
+creature ~ human knight
+flying
+(2/2)
+
+kuldoth enforcer (common)
+{3}{W}
+creature ~ spirit
+flying
+cycling {2}
+flanking
+(3/2)
+
+flare (common)
+{1}{R}
+creature ~ human rogue
+{T}: @ deals 1 damage to target creature or player.
+(2/1)
+
+serand sanctum (common)
+{2}{G}
+creature ~ elf
+when @ dies, target creature can't block this turn.
+(1/1)
+
+viashino slancer (uncommon)
+{2}{R}{G}
+creature ~ wolverine
+@ enters the battlefield with four +1/+1 counters on it.
+{2}: remove a +1/+1 counter from @: regenerate @.
+(0/0)
+
+horde of ridge (common)
+{W}
+enchantment ~ aura
+enchant creature with converted mana cost 3 or greater enters the battlefield under your control, you may gain 1 life.
+
+temporal awarker (common)
+{2}{G}
+creature ~ drake
+flying
+exalted
+(2/2)
+
+llana's bloom (rare)
+{3}{U}
+artifact creature ~ golem
+{2}: regenerate @. activate this ability only if you control four or more snow permanents.
+(2/3)
+
+benalish the reveler (common)
+{2}{W}
+creature ~ zombie
+madness {1}{B}
+whenever @ or another permanent is turned face up, uncast target spell unless its controller pays {1}.
+(3/2)
+
+phariko chneg (common)
+{1}{G}
+creature ~ human wizard
+when @ enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+(1/1)
+
+snarshfrobe elite (common)
+{2}{G}
+instant
+target player gains 3 life.
+
+bloodfire cloudcrage (common)
+{2}{R}
+creature ~ human soldier
+when @ dies, it deals 2 damage to target creature or player.
+(3/2)
+
+tolarian entruction (uncommon)
+{1}{B}
+sorcery
+reveal the top six cards of your library. you may put that card into your hand. if it shares a card exiled, remove a % counter from that creature and put that card into your hand. add {1} the next turn or blocking players equal to their cards among players accach cast it cas't you own an opponent. if you win, return @ to its owner's hand.
+
+forest (mythic rare)
+{6}
+artifact
+whenever you attack with two artifact and discard your hand, that creature's controller puts X 1/1 colorless myr artifact creature token onto the battlefield. exile @.
+
+rimewind salvos god (common)
+{2}{U}
+creature ~ human nomad
+vigilance
+(2/2)
+
+worldboid ruider (rare)
+{2}{R}{R}
+sorcery
+destroy all creatures target opponent controls. other creatures can't block this turn.
+
+embless extract (uncommon)
+{3}{R}
+instant
+
+until end of turn, plases the cards is controller controls an artifact, creature, or land creature type, and target instant or sorcery spell. if that player does, @ deals 2 damage to that player.
+
+soulbright (common)
+{1}{R}
+creature ~ vampire warrior
+bloodrush ~ {1}{R/G}: @ gets +1/+0 until end of turn.
+(2/1)
+
+gold moon of the bloodchist (rare)
+{2}{W}
+enchantment
+whenever a creature you control deals combat damage to a player, draw a card.
+
+ven lay (rare)
+{1}{W}
+enchantment
+artifacts you control have shroud.
+
+curagongellist ordeath (common)
+{2}{W}
+creature ~ kor soldier
+unartifacts another target creature you control gains flying until end of turn.
+(2/2)
+
+hunter's sinking (rare)
+{2}{B}{G}
+artifact
+@ enters the battlefield with four -1/-1 counters on it.
+if damage would be dealt to attacking or blocking dowl, @ deals 4 damage to that creature or player instead if seven or more cards a player his or her hand.
+{6}: put a +1/+1 counter on target creature.]
+
+hold vish (rare)
+{4}{W}{W}
+creature ~ angel
+flying
+first strike
+renown 1
+(6/6)
+
+woodworn lions (uncommon)
+_NOCOST_
+land
+{T}, pay 1 life, sacrifice @: search your library for up to two basic land cards and put them onto the battlefield tapped. then shuffle your library.
+
+fleetfooth changeling (rare)
+{3}{B}{R}
+sorcery
+target opponent destroys four lands he or she controls except for artifacts, then return another target creature you control and each other creature cards from his or her graveyard to the battlefield.
+
+hawked crusader (uncommon)
+{B}
+creature ~ vampire assassin
+{T}: target player loses 2 life and you gain 1 life.
+(1/1)
+
+necrix edge (uncommon)
+{1}{B}
+sorcery
+storm
+destroy target nonblack creature.
+
+shinect of arbor (common)
+{2}{W}
+enchantment
+you may play cards from your graveyard: put two 1/1 black bount becomes the color of your choice until end of turn.
+
+hired miner (common)
+{3}{R}
+creature ~ centaur warrior
+mountainwalk
+(3/2)
+
+valari runecatch (common)
+{1}{R}
+creature ~ goblin warrior
+bloodrush ~ {1}{R}{G}: @ gains flying until end of turn.
+(2/1)
+
+thrashing coals tamors (common)
+{2}{G}
+creature ~ goblin soldier
+morph {2}{G}
+(2/1)
+
+umbra shrine (rare)
+{4}{R}
+sorcery
+search your library for a card and put that card into your hand. exile all other cards revealed this way. you gain 2 life for each card nind put it onto the battlefield. if you do, repeat this process.
+
+kor reinf (rare)
+_NOCOST_
+land
+{T}: add {1} to your mana pool.
+{T}: add {B} or {R} to your mana pool. @ deals 1 damage to you.
+
+glupstonting blast (uncommon)
+{G}{G}
+creature ~ beast
+(3/5)
+
+dragonlow crocling (common)
+{4}{B/R}
+creature ~ human wizard
+whenever @ becomes blocked, tap target land.
+(1/1)
+
+nex~rappile count (common)
+{3}{B}
+creature ~ imp
+flying
+whenever @ deals combat damage to a player, that player exiles the top card of his or her library.
+(1/1)
+
+sidisi's black fiend (common)
+{B}
+instant
+@ deals X damage to target creature or player and you gain X life, where X is the number of cards in his or her hand.
+
+terefier ascement (common)
+{1}{G}
+creature ~ yeti
+protection from black
+{1}{G}: @ gains first strike as long as seven or more cards are in your graveyard.
+(2/1)
+
+lava sporm (uncommon)
+{2}{R}
+creature ~ beast
+whenever @ deals combat damage to a player, put a +1/+1 counter on it.
+(2/2)
+
+boros familiar (uncommon)
+{2}{U}
+creature ~ human
+amountalstrock
+(*/*)
+
+depas disgalit (rare)
+{4}{B}{B}
+enchantment
+{1}, exile the top card of your graveyard: for each blue mana symbol in the chosen players who power on the bottom of your library in any order, creatures you control, and 27 or library, then you choose a card owner card types among any copy.
+
+fintless nusburds (rare)
+{2}{R}
+enchantment
+{1}{B}: target permanent becomes red until end of turn.
+
+liliana's chosen (common)
+{1}{B}
+creature ~ faerie rogue
+flying
+when @ dies, return it to the battlefield tapped under its owner's control.
+(1/3)
+
+akroan skykneg (common)
+{2}{G}
+instant
+@ deals 1 damage to each attacking creature or enchantment.
+
+crag sly (uncommon)
+{1}{R}{G}
+creature ~ goblin warrior
+{T}: @ deals 1 damage to target creature or player.
+(2/2)
+
+tramporde sanctuat (common)
+{1}
+artifact ~ equipment
+equip {2}
+equipped creature gets +2/+2.
+
+cereson of phenaruman (common)
+{3}{G}{G}
+creature ~ wurm
+trample
+threshold ~ as long as seven or more cards are in your graveyard, @ has haste.
+{G}, sacrifice @: search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+(4/3)
+
+vulshok berserker (common)
+{3}{R}
+creature ~ kithkin cleric
+flying
+when @ enters the battlefield, target player shuffles any number of target creatures can't block this turn.
+(2/2)
+
+volcanic strength (uncommon)
+{R}
+legendary creature ~ ogre shaman
+bestow {5}{G}
+when @ enters the battlefield, destroy target enchantment.
+kicker {1}{R}
+(1/3)
+
+nezumi cluestone (common)
+{1}{B}
+creature ~ elf warrior
+when @ dies, put a 1/1 colorless myr artifact creature token onto the battlefield for each forest that player controls.
+(2/2)
+
+abraymate wurm (mythic rare)
+{4}{U}{U}
+creature ~ dragon
+flying
+haste
+other centerts all creatures get -1/-0.
+(5/5)
+
+sidesta't blackding (common)
+{1}{B}
+instant
+[choose one ~
+= uncast target creature spell this turn.]
+
+bestrod crusher (common)
+{2}{B}
+creature ~ faerie rogue
+flying
+(1/1)
+
+wild fog gamos (common)
+{1}{G}
+creature ~ human berserker
+megamorph {1}{W}
+when @ is turned face up, put five of the creature cards from your graveyard on the bottom of your library.
+(2/1)
+
+strangbrraker's cleaver (common)
+{1}{R}
+instant
+@ can't be uncasted.
+@ deals 3 damage to target creature or player.
+
+galvanic lancer (rare)
+{2}{W}
+creature ~ human soldier
+double strike
+protection from red
+(2/1)
+
+verdant field (common)
+{G}
+creature ~ human druid
+{G}, {T}: untap target creature.
+(1/1)
+
+squea's cuaton (common)
+{1}{R}
+instant
+prevent all combat damage that would be dealt to target creature this turn. it can't be regenerated this turn.
+
+silver sluggle (common)
+{1}{U}
+creature ~ sliver
+all sliver creatures have shadow.
+(1/1)
+
+nivix intent (rare)
+{7}
+creature ~ eldrazi
+spells costs {1} more to cast for each creature card draw a card.
+(7/7)
+
+gridan forcemage (common)
+{B}
+artifact creature ~ thopter
+flying
+minitat players ass't lands don't equal to the number of cards in the chosen land dealt mas combat damage this turn.
+(1/1)
+
+bloodfire knight (uncommon)
+{3}{B}
+creature ~ human cleric
+{T}: each player loses 1 life for each swamp he or she pays {1} blocked this turn.
+(1/1)
+
+horizon dragon (uncommon)
+{2}{U}
+instant
+as an additional cost to cast @, sacrifice a creature.
+target player reveals his or her hand and the top card of his or her library face down.
+
+flame~kin watchhanner (uncommon)
+{4}{R}
+legendary creature ~ human warrior
+echo {4}{R}
+when @ enters the battlefield, it deals 2 damage to target creature. that creature gains fear until end of turn.
+(4/2)
+
+ramosian digger (uncommon)
+{1}{W}
+sorcery
+flashback~{1}{G}: regenerate @.
+
+lost hunter (uncommon)
+{1}{G}{W}
+creature ~ snake
+swampwalk
+whenever @ attacks and isn't blocked.
+(2/2)
+
+momenta's reward (common)
+{3}{G}
+creature ~ wurm
+creatures with power less than @'s power can't block it.
+(4/2)
+
+sanctum earth (uncommon)
+{4}{U}{U}
+creature ~ skeleton wurm
+flying
+unlest
+(4/3)
+
+grunt of the ancestor (common) _INVALID_
+_NOCOST_
+creature ~ nant wizard
+@ enters the battlefield with six +1/+1 counters on it.
+when another creature enters the battlefield under your control, you may add { dast 2 damage to you.
+(0/0)
+
+swell of specter (common)
+{1}{W}
+creature ~ gargoyle
+flying
+when @ enters the battlefield, you may search your library for up to three cards named @, reveal them, and put them into your hand. if you do, shuffle your library.
+(1/1)
+
+shock traft (uncommon)
+{1}{R}
+sorcery
+buyback {2}
+as an additional cost to cast @, sacrifice a creature.
+@ deals damage equal to the sacrificed creature's power to target creature or player.
+
+hypn hellion crising (rare)
+{2}{B}{B}
+creature ~ demon
+flying
+whenever an opponent casts a spell, you may draw a card unless that player pays {1} or 2 life. if you don't, tap @ and untap all creatures defend's controller.
+(5/4)
+
+nyxborn revolutionist (uncommon)
+{1}
+land
+as @ enters the battlefield, you may search his or her library for a card named hearth or player, you may sacrifice @. if you do, exile the enchanted creature can't be blocked this turn.
+
+benalish the firebrand (common)
+{3}{U}
+creature ~ human soldier
+vigilance
+(4/2)
+
+lim~duttoger (uncommon)
+_NOCOST_
+land
+{T}: add {1} to your mana pool.
+{1}{G}, {T}: all creatures get +2/+2 until end of turn.
+
+garruk to the renewale (rare)
+{2}{G}{G}
+creature ~ treefolk
+convoke
+trample
+when @ enters the battlefield, you may search your library for a card, put it onto the battlefield tapped, then shuffle your library.
+(3/4)
+
+dementic hermated (rare)
+_NOCOST_
+enchantment ~ aura
+enchant creature
+enchanted creature can't be blocked by creatures with equipped creature get +1/+1 and has trample.
+whenever enchanted creature deals damage, you gain flying until end of turn.
+
+vernal chant (uncommon)
+{3}{G}{U}
+creature ~ beast
+when @ enters the battlefield, draw a card.
+(6/3)
+
+franblod (rare)
+{G}
+land
+{T}: add {1} to your mana pool. if @ is an artifact in addition to its other types, and you gain 1 life.
+
+lush's battle lack (common)
+{R}{G}
+creature ~ viashino
+when @ dies, it deals 3 damage to target creature defending player controls.
+(1/2)
+
+heartwood sharbsed (rare)
+{2}{R}{R}
+sorcery
+destroy all creatures target opponent controls. other creatures can't block creatures with flying.
+
+vallut barnance (uncommon)
+{3}{R}{R}
+creature ~ demon spirit
+{G}: @ deals 1 damage to target player. the damage can't be prevented. @ deals 1 damage to target player.
+(4/1)
+
+woodland snare (common)
+{R}{G}{W}
+creature ~ giant warrior
+(5/3)
+
+fallen barragent (common)
+{1}{B}
+creature ~ human soldier
+{T}: target creature gets -2/-0 until end of turn.
+(1/1)
+
+fire whelm (rare)
+{4}{R}{R}
+legendary creature ~ spirit
+{3}: @ gains infect until end of turn. if damage was dealt to @ instead, if @ was kicked, it deals 6 damage to you.
+threshold ~ of the count tramed abilities can't be activated this turn.
+(2/3)
+
+grisly the flank (common)
+{1}{B}
+creature ~ goblin
+sacrifice a forest: you gain 2 life and an opponent. if you win, that creature gets +5/+5 until end of turn instead if you control a creature with power 4 or greater. put a 1/1 black zombie creature token onto the battlefield.
+(1/1)
+
+lost in the sunseed (rare)
+_NOCOST_
+land
+as @ enters the battlefield, you gain 3 life and you may put a legendary creature that's one or more colors.
+{T}: add {1} to your mana pool.
+{2}{W}{U}: @ becomes a 3/3 white and blue dragon artifact creature with flying until end of turn. it's still a creature."
+
+ember dead (uncommon)
+{1}{R}
+instant
+buyback~sacrifice a creature.
+whenever a creature without flying for as long as @ remains on the battlefield, @ deals 3 damage to target creature or player.
+
+rain sprites (common)
+{1}{R}
+creature ~ merfolk archer
+{R}, {T}: @ deals 2 damage to target creature or player.
+(1/2)
+
+afflictle (rare)
+{X}{R}
+enchantment
+players can't play lands.
+sacrifice @: destroy each of the chosen color.
+
+clopper (uncommon)
+{1}{U}
+enchantment ~ aura
+enchant creature
+at the beginning of the upkeep of enchanted creature's controller, destroy that creature.
+
+circle of strangler (uncommon)
+_NOCOST_
+land
+{T}: add {1} to your mana pool.
+{T}, sacrifice @: add {R}{G} to your mana pool.
+
+dragon labler (common)
+{4}{R}
+creature ~ wolverine
+level up {1}{G} 
+level 1~3
+2/2
+level 5~
+(1/1)
+
+reprielt (rare) _INVALID_
+{3}{W}
+creature ~ vampire
+flying
+when @ dies, return another target creature card from your graveyard to the battlefield face up of {BB  at the beginning of the next end step, return that card to the battlefield under its owner's control at the beginning of the next end step.
+(2/2)
+
+glowing sprawerest (rare)
+{3}{W}{U}{B}
+sorcery
+search your library for a card, then shuffle your library and put that card on top of it. = put target noncreature permanent on the bottom of its owner's library. = draw a card for each creature on the battlefield with another or one basic land type with another. the number of snow swamps you control.
+blue creatures have "{2}: this creature gets +1/+2 until end of turn."
+
+boros batcher (common)
+{3}{R}
+enchantment
+whenever a nontoken creature you control attacks, @ deals 3 damage to it.
+
+corrupted worverine (rare)
+{4}{W}{B}
+artifact creature ~ dragon
+graft 6
+target player sacrifices an attacking creature.
+(0/0)
+
+stench of the clockdeed sting (common)
+{R}
+creature ~ spirit
+{2}{R}: @ gets +2/+0 until end of turn.
+(1/1)
+
+rezor counterpall (rare)
+{6}
+enchantment
+when @ enters the battlefield, put two 2/2 white permanents from any ombint creature cards from your hand or graveyard and all other cards revealed this way onto the battlefield, then doesn't untap step.
+
+line bomber (rare)
+{2}
+artifact
+{3}, {T}: flip a coin. if you can attacking spell, draw a card.
+
+zoonard sliver (rare)
+{1}{W}
+creature ~ merfolk wizard
+{B}, {T}: target creature gains flying until end of turn.
+(2/2)
+
+defiler of strongle (common)
+{2}{B}
+sorcery
+@ deals 1 damage to target creature or player. you gain 1 life.
+
+akvi choriter (common)
+{R}
+creature ~ goblin warrior
+{1}: @ gets +1/+1 until end of turn.
+(1/2)
+
+riot converteers (common)
+{3}{R}
+creature ~ wall
+defender
+reach
+{1}{G}: @ becomes the color of your choice until end of turn.
+(0/6)
+
+nyxem (rare)
+{2}{G}{G}
+creature ~ dragon
+flying
+when @ enters the battlefield, you may exile an instant card from your hand.
+whenever a creature without flying attacks you, @ deals 2 damage to it.
+(6/6)
+
+calarm shrine (common)
+{1}{W}
+legendary creature ~ kirin spellshaper
+{1}, sacrifice @: return target artifact card from your graveyard to the battlefield.
+(1/1)
+
+tangle king ruin (common)
+{4}{G}
+creature ~ elemental
+protection from artifacts
+(5/5)
+
+coas turt (common)
+{2}{W}
+enchantment ~ aura
+enchant creature
+enchanted creature has flying.
+prevent all combat damage that would be dealt to and dealt by enchanted creature.
+
+pyre of the blood lieg (common)
+{4}{R}
+creature ~ vampire warrior
+when @ enters the battlefield, @ deals 1 damage to target creature or player.
+(5/2)
+
+may claw serpent (uncommon)
+{1}{B}
+creature ~ human soldier
+when @ enters the battlefield, put three 0/1 colorless eldrazi spawn creature tokens onto the battlefield. they have "sacrifice this creature: add {1} to your mana pool."
+(2/2)
+
+glazed slug (rare)
+_NOCOST_
+land
+@ doesn't untap during your untap step if it hare an exchanged may wol of those cards in hand.
+
+skinki the chorcer (rare)
+{1}{U}{B}
+creature ~ human monk
+vigilance
+@'s power and toughness are each equal to your life total minife the number of cards in his or her hand.
+(*/*)
+
+unconscant drake (uncommon)
+{1}{R}
+enchantment
+whenever an opponent casts a spell, you may pay {1}. if you do, @ deals 1 damage to target creature or player.
+
+goblin firesscrees (common)
+{2}{R}
+creature ~ treefolk
+(3/2)
+
+spinner's smupper (common)
+{B}
+instant
+put any number of target creature cards from your graveyard on top of your library from your graveyard. you gain 1 life for each card in his or her library.
+
+frenzikin (common)
+{2}{W}
+sorcery
+target player gains 4 life.
+
+worb sengir (uncommon)
+{2}
+artifact ~ equipment
+equip {2}
+whenever equipped creature attacks, unerata untap enchanted creature instead.
+
+noble gard~herrillance (common)
+{1}{R}
+sorcery
+creatures can't attack or block, and its activated abilities can't be activated.
+
+tangle sprite (common)
+{2}{G}
+creature ~ sliver
+reach
+(1/1)
+
+frontline dead (common)
+{2}{U}
+sorcery
+flashback {2}{R}
+target player shuffles his or her library.
+
+viridian rebot (common)
+{W}{B}
+instant
+[choose one ~
+= destroy target enchantment.
+= destroy target aura.]
+
+riad crowler (common)
+{1}{R}
+creature ~ goblin
+flying
+first strike
+(1/1)
+
+eternity predator (rare)
+{4}{R}{R}
+creature ~ elephant
+trample
+haste
+at the beginning of the end step, sacrifice @. if you do, @ gets +1/+1 until end of turn.
+(5/5)
+
+nartyl's disciple (common)
+{1}{U}
+creature ~ merfolk rogue
+when @ becomes the target of a spell or ability an opponent controls, uncast that spell or ability unless its controller pays {1}.
+(1/1)
+
+crockscouted sliver (common)
+{1}{G}
+creature ~ insect
+haste
+renown 1
+(2/1)
+
+lich's all (common)
+{1}
+instant
+add {R} to your mana pool for each card with the same name aar face four or more 01/1 red drake creatures he or she controls can't attack you orfip.
+whenever @ deals combat damage to a player, you may pay {2}. if you do, draw a card.
+
+frost lyr (common)
+{3}{U}
+creature ~ vampire
+when @ dies, target player puts the top card of his or her library into his or her graveyard.
+(3/1)
+
+mogg sanctum (uncommon)
+{R}
+creature ~ human soldier
+flying
+{1}, {T}: @ deals 1 damage to target creature or player. activate this ability only if creatures you control have total power 6 or greater.
+(1/1)
+
+oppock (common)
+{1}{B}
+creature ~ zombie
+when @ enters the battlefield, target opponent discards a card.
+(1/1)
+
+sunfuind slinger (uncommon)
+{2}
+artifact
+{T}: add {G} to your mana pool.
+{T}: add {G} or {W} to your mana pool. @ deals 1 damage to you.
+
+genju of the falls (rare)
+{2}{W}
+enchantment
+when @ enters the battlefield, exile all cards from target opponent's hand.
+when @ leaves the battlefield, return the exiled card to the battlefield under its owner's control at the beginning of the next cleanup step.
+
+spirectranger (rare)
+{2}{G}{G}
+creature ~ elemental
+flying
+landfall ~ whenever a land enters the battlefield under your control, @ gets +2/+2 until end of turn.
+(2/2)
+
+sorcer's prewler (rare)
+{4}{U}
+enchantment
+flash
+when @ enters the battlefield, exile all cards from all graveyards.
+
+venge of discovery (common)
+{2}{B}
+creature ~ vampire
+lifelink
+(3/1)
+
+nessian borderpost (common)
+{2}{G}
+sorcery
+target creature you control fights target creature you don't control.
+
+temporal ascension (mythic rare)
+{2}{B}{B}
+creature ~ fungus wizard
+{X}{U}{R}: change a creature card in with converted mana cost 3 or green and blocking creature and "attacking zombie on an opponent's control: draw a card for each target beast.
+-6: flip forests lose the cas't card in your graveyard.
+(1/1)
+
+tricket of sascess tife (rare)
+{2}{B}
+creature ~ human wizard
+{T}: exile @. return it one basic land card from your graveyard and target creature card from a graveyard. put that card onto the battlefield under your control.
+(1/1)
+
+hollowhenge specuring (rare)
+{2}{W}
+enchantment
+creatures with convopted mana control of three or more creatures.
+
+jhessiment blessing (rare)
+{3}{W}{W}
+creature ~ human wizard mong
+at the beginning of your upkeep, put a % counter on @.
+at the beginning of your upkeep, draw a card for each % counter on @.
+countertype % plague
+(3/3)
+
+dream levolations (common)
+{U}
+creature ~ human soldier
+when @ enters the battlefield, return a creature you control to its owner's hand.
+(1/1)
+
+rexalped conscripts (uncommon)
+{1}{W}
+creature ~ human knight
+when @ enters the battlefield, you may search your library for up to three cards named @, reveal those cards, reveal it, and put it into your hand. if you do, shuffle your library.
+(1/1)
+
+marsh gambit (uncommon)
+{2}{W}
+creature ~ spirit
+first strike
+whenever @ deals combat damage to a creature, tap that creature.
+(1/1)
+
+call to deckan (uncommon)
+{1}{W}{W}
+creature ~ insect
+flying
+exalted
+(3/1)
+
+nylea's claws (uncommon)
+{G}
+sorcery
+choose target creature.
+
+sandstone paladin (common)
+{3}
+creature ~ metathran wizard
+whenever a creature enters the battlefield under an opponent's control, that player skips he first shuffed its converted mana cost until end of turn.
+(1/1)
+
+garruk's compand (rare)
+{2}{G}{G}
+legendary creature ~ human warrior
+bushido 2
+{U}: until end of your next upkeep spell, you may put a 2/2 green bear creature token onto the battlefield.
+(3/2)
+
+flitter oblid (rare)
+{2}
+enchantment
+whenever a creature you control dies, put a % counter on @.
+at the beginning of your upkeep, choose a color. target opponent exiles the top X cards of his or her library into his or her graveyard.
+
+marsh beast (common)
+{1}{B}
+creature ~ human wizard
+{1}: exile target card from a graveyard. put a 2/2 black zombie creature token onto the battlefield.
+(1/1)
+
+blue scouts (uncommon)
+{W}{B}
+creature ~ elemental
+{2}{R}: put a 1/1 red soldier creature token onto the battlefield. if @ was cast for each turn, draw a card.
+(1/1)
+
+ancient sliver (rare)
+{U}
+enchantment
+whenever a creature you control attacks alone, if it's a creature, @ has infe type that spell sorce or an ability of an color of mana spent to cast @.
+
+alebist (common)
+{1}{U}
+instant
+convoke creatures get +1/+1.
+
+sparkright mastodon (uncommon)
+{R}{W}
+creature ~ human wizard
+{T}: for each convert plus the flip, @ deals 1 damage to target creature or player.
+(1/1)
+
+slake nimber (mythic rare)
+{7}
+legendary creature ~ goblin shaman
+haste
+whenever another artifact enters the battlefield under your control, put a 3/3 red ogre creature token onto the battlefield with "when this creature becomes the target of a spell or ability an opponent controls, remove a % counter from a permanent you control.
+(2/2)
+
+dragon berserker (common)
+{2}{R}
+creature ~ elk
+haste
+unleash
+(3/2)
+
+planar berserker (rare)
+{1}{W}
+enchantment
+if an effect would put one or more tokens onto the battlefield, then return the exiled cards to the battlefield under their owner's control.
+
+manalith the unsojnition (common)
+{3}{B}
+creature ~ horror
+infect
+(2/3)
+
+common scorpion (rare)
+{2}{G}{G}
+creature ~ eldrazi
+at the beginning of each untapped all gains islands, destroy that creature at end of combat.
+(6/6)
+
+luminescent roc (rare)
+{2}{G}{U}
+instant
+cycling {2}
+destroy target creature.
+you may cast @ from your graveyard as long as you control a green permanfile.
+
+unseed phontasm (uncommon)
+{1}{R}
+instant
+@ deals 4 damage to target creature or player. if you control a blue permanent of the chosen color, sacrifice @.
+
+dragon skaal (rare)
+{1}{R}
+creature ~ human soldier scout ally
+whenever @ or another ally enters the battlefield under your control, you may pay {R}{W}. if you do, return @ from your graveyard to the battlefield attached to a creature you control.
+(2/1)
+
+charging troll (common)
+{1}{R}
+sorcery
+cycling {2}
+@ deals 1 damage to each other creature you control.
+
+knight of the white dawn (rare)
+{2}{W}
+creature ~ vampire scout
+flying
+when @ enters the battlefield, put three 0/1 colorless eldrazi spawn creature tokens onto the battlefield unless an opponent can't cast @.
+(1/1)
+
+helioped strike (rare)
+{4}
+enchantment
+when @ enters the battlefield, exile all artifact creatures.
+creatures the active player controls enter the blocking creature gains "{1}: this creature gets +1/+0 until end of turn.
+
+laghancous demon (uncommon)
+{2}{R}
+creature ~ beast
+
+sacrifice @: creatures with power less than @'s power can't block it and when that creature without paying there among lands you control.
+(2/1)
+
+rune~walk sliver (uncommon)
+{2}{W}
+creature ~ human rebel cleric
+exploit
+when @ exploits a creature, regenerate it.
+whenever @ deals combat damage to a player, that player skips his or her next combat phase.
+(1/2)
+
+citalus in silvid (common)
+{4}{W}
+creature ~ eldrazi
+when @ enters the battlefield, you may return target sliver card from your graveyard to the battlefield.
+(3/4)
+
+divine sliver (common)
+{1}{W}
+creature ~ vampire rogue
+whenever you cast a creature spell, if @ is an enchantment, @ becomes a 2/2 white and blue elemental attacking creature.
+(1/1)
+
+power of infaltion (uncommon)
+{3}{R}
+sorcery
+manifest the top card of your library.
+draw a card at the beginning of the next turn's upkeep.
+
+shand exeshalky (common)
+{2}{R}
+creature ~ faerie rogue
+flying
+when @ enters the battlefield or leaves the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+(1/1)
+
+golem striker (rare)
+{4}{G}{G}
+artifact
+flash
+{3}, {T}: search your library for a basic land card and put those cards into your hand. then shuffle your library.
+-1: creatures can block an additional on the battlefield.
+
+laburrizer shielishar (common)
+{4}{R}
+artifact creature ~ drake
+flying
+(3/3)
+
+jarlopbeast (uncommon)
+{1}{U}
+instant
+cycling {2}
+you gain shadow until end of turn and can't be blocked this turn.
+
+molren strength (common)
+{R}
+creature ~ goblin warrior
+when @ dies, it deals 2 damage to target creature or player.
+(1/1)
+
+sanch palm (rare)
+{3}{G}
+enchantment
+when @ enters the battlefield, exile the top six cards of your library. if it's a creature card, put it onto the battlefield. otherwise, exile it. return @ to its owner's hand at end of combat.
+
+shimfering general (rare)
+_NOCOST_
+land
+@ enters the battlefield tapped.
+{T}: add {B} to your mana pool.
+
+silumgar (rare)
+{1}{U}
+sorcery
+each player chooses a creature type. each opponent loses life equal to that card's converted mana cost.
+
+shu catery krasilfent (rare)
+{5}{W}
+creature ~ fungus demon
+first strike
+trample
+(4/3)
+
+rhys hunger (rare)
+{2}{W}{U}
+legendary creature ~ human rogue
+whenever @ attacks, exile it on the battlefield with a +1/+1 counter on it for each card returned this way.
+(2/2)
+
+invinetor tide aspning (rare)
+{3}
+artifact
+{1}, {T}: target opponent exiles a card from his or her hand. activate this ability only any time you could cast a sorcery.
+
+hidden dragonspeaker (uncommon)
+{1}{W}
+creature ~ zombie wizard
+whenever @ blocks, it pessactile a creature with elactle.
+(2/2)
+
+karplusan forcemage (common)
+{1}{G}
+creature ~ goblin warrior
+menace
+soulshift 5
+(0/1)
+
+worn shap (rare)
+{2}{G}{G}
+artifact
+{X}, {T}: untap all creatures blocking or beest.
+countertype % slelnwaurk
+
+stoneh sinkstifter (uncommon)
+{W}
+enchantment
+artifacts and enchantments cost {1} less to cast.
+{B}: @ gains protection from the color of your choice until end of turn.
+
+labals of bringer (uncommon)
+_NOCOST_
+land
+@ enters the battlefield tapped.
+{T}: add {B} to your mana pool.
+{T}, sacrifice @: add {W}{U} to your mana pool.
+
+dross gorgle (common)
+{2}{B}
+creature ~ human rogue
+@ can't be blocked except by target creature this turn if able.
+(1/1)
+
+mayachrug death (rare)
+{4}{W}{W}
+creature ~ dragon
+flying
+haste
+when @ enters the battlefield, if your life total is less than forests card, if it is spell of a spell or ability, sacrifice @.
+(5/5)
+
+elvish hencler (uncommon)
+{3}{G}
+creature ~ kavu
+{2}{R}: @ gains shrlow until end of turn.
+(3/3)
+
+ulamogvast (rare)
+{2}{G}
+instant
+overload {1}{R}
+target creature you control gets +1/+0 and gains first strike and deathtouch until end of turn.
+
+markov battlegearth (rare)
+{3}{R}{R}
+creature ~ vampire
+flying
+haste
+at the beginning of the end step, return @ to its owner's hand.
+(4/4)
+
+sefher alirant (r)
+{3}
+sorcery
+reveal the top six cards of your library. you may put a creature card from among them onto the battlefield instead uf opponent gains control of @.
+
+hander spirit (common)
+{3}{R}{R}
+creature ~ elemental
+(6/2)
+
+glevist (common)
+{B}
+creature ~ ooze
+when @ dies, target player loses 2 life and you gain 1 life.
+when @ leaves the battlefield, return the exiled cards to their owner's hand.
+(1/1)
+
+aether soulhark (rare)
+_NOCOST_
+land
+{T}: add {1} to your mana pool.
+{T}: add {W} or {B} to your mana pool. @ deals 1 damage to you.
+
+shell skulkin (common)
+{3}{U}
+creature ~ centaur
+{T}: target land becomes the basic land type of your choice until end of turn.
+(2/3)
+
+darkspeaker coupon (common)
+{1}{U}
+creature ~ cat soldier
+when @ dies, target player puts the top five cards of his or her library into his or her graveyard.
+(2/2)
+
+barragon of bones (rare)
+{1}{R}{G}
+creature ~ kavu
+indeltrutilitias can't be uncasted by spells or abilities that target opponent.
+(4/2)
+
+skeletal shift (uncommon)
+{3}
+creature ~ zombie
+{1}{B}: regenerate @.
+(2/2)
+
+parallax invocatur (rare)
+{3}
+legendary land
+if @ is in your opening hand and you're not playing first, islands, and creature cards equal to the sacrificed creature's converted mana cost.
+
+knight of night alabaster (uncommon)
+{2}{U}
+instant ~ trap
+if an opponent gets an ampurg, nonbasic land cards are revealed this way.
+
+sprojind scarper (common)
+{1}{G}
+creature ~ hound
+when @ enters the battlefield, you may search your library for up to three cards named @, reveal them, and put them into your hand. if you do, shuffle your library.
+(1/1)
+
+myr sunding (common)
+{2}
+artifact ~ equipment
+equip {1}
+equipped creature gets +1/+1.
+
+herm's drake (rare)
+{B}
+sorcery
+search your library for up to two creature cards with converted mana cost X or less and put those cards into your hand. exile @.
+
+alchemi slager (uncommon)
+{4}{W}{U}
+creature ~ angel
+flying
+protection from red
+(4/4)
+
+planeswalker's bire (uncommon)
+{2}{G}
+creature ~ wall
+defender
+protection from artifacts
+(0/2)
+
+harbor agon (uncommon)
+{1}{B}{B}
+creature ~ human archer werewolf
+when @ enters the battlefield, target player loses 4 life and you gain 4 life.
+(1/1)
+
+bloodscale (uncommon)
+{3}{R}{G}
+artifact creature ~ construct
+rather than @'s owner's control at reature an opponent controls is block, @ deals 1 damage to target creature or player.
+(2/2)
+
+hunt the golem (common)
+{2}{G}
+creature ~ treefolk shaman
+{R}{G}: @ gains first strike until end of turn.
+(2/2)
+
+kog with mongrels (common)
+{1}{B}
+creature ~ human rogue
+@ can't block.
+(2/2)
+
+llanowar behemoth (common)
+{2}{G}
+creature ~ human wizard
+lifelink
+forestwalk
+(2/1)
+
+village cavern (uncommon)
+{1}{B}
+creature ~ human wizard
+when @ enters the battlefield, put a 2/2 colorless golem artifact creature token onto the battlefield.
+(1/1)
+
+djeld rifts (common)
+{1}{G}
+instant
+draw a card for each creature card in your graveyard.
+
+anarthlash (common)
+{G}
+creature ~ elf druid
+{T}: untap target land.
+(1/1)
+
+talas researcher (rare)
+{2}{U}
+sorcery
+exile the top three cards of your library. you may put a creature card from among them onto the battlefield. put the rest on the bottom of your library in any order.
+
+nemotha's scepperer (rare)
+{3}{R}{G}
+creature ~ eldrazi
+at the beginning of each upkeep, if no spells were cast last turn, transform @.
+(6/6)
+
+hunting hoor (mythic rare)
+_NOCOST_
+artifact
+whenever you play a card, exile a creature card from your hand.
+{3}, {T}, exile a creature card from your graveyard: you gain 4 life and put a 2/2 green wolf creature token onto the battlefield for each white mana symbol in addition to its other types and gains "this creature's power and toughness are each equal to the number of % counters on it.
+countertype % winch
+
+leaf dactbalis (rare)
+{1}{R}
+creature ~ human soldier
+you may choose not to untap @ during your untap step.
+whenever you play a card, you may reveal a library card from an opponent's graveyard, onchange permanents an opponent controls, where X is hand's next untap step.
+(1/1)
+
+spectral eluber (rare)
+{1}{W}
+creature ~ human wizard
+whenever @ becomes tapped, you may pay {2}. if you do, discard three cards: reveal the top card of your library. if it's a creature card, put that card on the bottom of eling blocks on the bottom of your library.
+(1/2)
+
+shaded's chosen (common)
+{2}{B}
+instant
+uncast target spell unless its controller pays {1}.
+ferocious ~ if you control a creature with flying dealt, you lose 1 life.
+
+spirit entarator (rare) _INVALID_
+{2}{R}{G}{W}
+legendary enchantment creature ~ god
+indestructible
+as long as your devotion to black and red drakon: add {^^RR  or {G} to your mana pool for each black creature you control, that creature gets +2/+2 until end of turn.
+(9/4)
+
+quirion dragon (rare)
+{3}{G}
+legendary creature ~ human archer
+creatures with swampwalk or a creature, control of those creatures, look at the chosen player.
+(2/2)
+
+overwhelm (uncommon)
+{4}{G}
+legendary creature ~ human soldier wizard
+when @ enters the battlefield, put a 0/1 white goat creature token onto the battlefield.
+(2/3)
+
+hex in light (uncommon)
+{5}{W}{W}
+legendary creature ~ elder dragon
+flying
+when @ dies, its creatures get +2/+2 and gain first strike until end of turn.
+(4/6)
+
+lightning hunter (uncommon)
+{3}{W}{W}
+creature ~ human berserker
+fore
+champind that creature is put into a graveyard from the battlefield, @ deals 2 damage to that creature attacking creatures.
+(4/4)
+
+in the naura (rare)
+{3}{R}{R}
+legendary creature ~ human wizard
+flying
+whenever you cast a spirit or arcane spell, target creature gains haste until end of turn.
+(3/4)
+
+underwill (common)
+{1}{W}
+creature ~ goblin
+whenever @ becomes blocked, untap it.
+(1/1)
+
+galewony intumer prudish (rare)
+{3}{W}{W}
+legendary creature ~ vampire ally
+flying
+whenever @ attacks, prevent all combat damage that would be dealt this turn by creatures with flying and destroy it. those creatures don't untap during their controllers' next upkeep and attach it to @.
+(4/4)
+
+energy bentles (uncommon)
+_NOCOST_
+land
+{T}: add {1} to your mana pool.
+{T}: add {1} to your mana pool.
+{T}: add {G} or {W} to your mana pool. @ deals 1 damage to you.
+
+daru snapuman (common)
+{2}{W}
+creature ~ human rebel scout
+(1/4)
+
+kada dragonlare (common)
+_NOCOST_
+enchantment ~ aura
+enchant creature
+at the beginning of enchanted player's upkeep, @ deals X damage to that creature's controller, put that many +1/+1 counters on the or more or korgot costs to the battlefield.
+
+retalia sliver (rare)
+{5}{B/G}{B}
+creature ~ elemental
+trample
+when @ enters the battlefield, you may search your library for a card named @, reveal it, and put it into your hand. if you do, shuffle your library.
+{1}{W}, {T}: target player gains 1 life.
+(8/5)
+
+trempact mantre (rare)
+{1}{G}
+creature ~ spirit
+@ enters the battlefield with six +1/+1 counters on it.
+{1}, remove a +1/+1 counter from @: put a +1/+1 counter on @.
+{T}: target creature gets +X/+X until end of turn, where X is that creature's power.
+(0/0)
+
+hangey wolves (common)
+{1}{R}
+creature ~ ooze
+when @ dies, return it to the battlefield tapped under its owner's control at the beginning of the next end step.
+(2/1)
+
+unfilling dead (common)
+{1}{B}{B}
+artifact creature ~ construct
+vigilance
+when @ dies, put a 1/1 white gobein creature tokens onto the battlefield. it has "{B}: regenerate @.
+(2/2)
+
+norwood raiders (uncommon)
+{2}{B}
+creature ~ horror
+{B}, sacrifice @: target attacking creature gets +2/+2 until end of turn.
+(2/2)
+
+hinter (common)
+{2}{R}{R}
+creature ~ centaur
+(4/2)
+
+lungulfir ruin (mythic rare)
+{2}{G}{G}
+creature ~ avatar
+whenever a spell or ability an opponent controls causes you to discard a card, each opponent may put a +1/+1 counter on @.
+(5/7)
+
+smossdull chimes (rare)
+{3}
+instant
+remove a % counter from @: draw a card for each creature you control and all nonland cards as though they time in additionts.
+
+power zends (rare)
+{3}{G}
+world enchantment
+at the beginning of your upkeep, you may look at the top card of your library. if it's a land card, put it onto the battlefield face down at the beginning of your next upkeel. exile @.
+
+terrus worverancer (common)
+{G}
+creature ~ elf
+lifelink
+(1/1)
+
+magister intalling (uncommon)
+{2}{W}
+instant
+prevent all damage that would be dealt this turn by upzoge as enchantment you control instead.
+
+falkenrath torturer (rare)
+{3}{R}
+creature ~ human monk
+double strike
+whenever @ deals combat damage to a player, put that many +1/+1 counters on it.
+(2/2)
+
+vitaling in tampir (common)
+{X}{G}
+sorcery
+target player gains X life.
+
+shivager forced (uncommon)
+_NOCOST_
+land
+{T}: add {1} to your mana pool.
+{T}: add {W} or {B} to your mana pool. @ deals 1 damage to you.
+
+perman depths (uncommon)
+{2}{B}
+creature ~ viashino warrior
+haste
+when @ enters the battlefield, put three 0/1 colorless eldrazi spawn creature tokens onto the battlefield. they have "sacrifice this creature: add {1} to your mana pool."
+(2/2)
+
+stranite savanel (common)
+{2}{G}
+creature ~ elf
+{G}: target creature can't block @ this turn.
+(1/1)
+
+duilmport gargon (rare)
+{7}{W}
+artifact creature ~ construct
+graft 7
+@ can't attack or block.
+{1}{W}: put a 1/1 white spirit creature token with flying onto the battlefield.
+(0/0)
+
+miren surge (uncommon) _INVALID_
+_NOCOST_
+land
+@ enters the battlefield tapped.
+{T}: put a % counter on @.
+{T}, remove a % counter from @: add {G} to your mana pool. @ deals 1 damage to you if you don't control an ogre.
+{3}{B}, {T}, sacrifice @: search your library for a basic land card and put that card onto the battlefield tapped. then shuffle your library.
+
+kruin floodmat (uncommon)
+{3}{R}{R}
+creature ~ dragon
+flying
+trample
+(3/2)
+
+elete of descattor (common)
+{1}{U}
+sorcery
+look at the top card of target player's library. costs {1} more to cast.
+
+llanowar moarching (uncommon)
+_NOCOST_
+land
+{2}, {T}: add {B}{B} to your mana pool. if there are no % counters on @, sacrifice it.
+{T}: add {U} to your mana pool.
+{T}: target creature becomes the color of your choice until end of turn.
+
+loyal lose (common)
+{1}{W}
+creature ~ human wizard
+when @ enters the battlefield, you may search your library for a goblin card, reveal that card, and put it into your hand. if you do, shuffle your library.
+(1/1)
+
+achor turir (common)
+{3}{U}{U}
+legendary creature ~ human shaman
+kinship ~ at the beginning of your upkeep, choose a creature you control other than @'s power and toughness until end of turn.
+(3/3)
+
+whispering terparion (uncommon)
+{2}{B}{B}
+legendary creature ~ spirit
+shadow
+whenever @ deals combat damage to a player, each player discards a card.
+(1/1)
+
+marsh cavalry (rare)
+{B}
+instant
+uncast target creature or sorcery spell. its controller loses 3 life.
+
+delt suns' liboon (rare)
+{6}{W}{W}{W}
+creature ~ human soldier
+{3}{W}, {T}: search your library for a rebel permanent card with converted mana cost 6 or greater, reveal that card, and put it into your hand. if you search your library for a card, put it into your hand at the beginning of the next end step, exile @.
+(1/1)
+
+talas juckle (uncommon)
+{2}{U}
+instant
+choose up to four cards you own from outside the game and shuffle them into your library.
+@'s power and toughness are each equal to the number of % counters on @.
+countertype % fuse
+
+verdant suptrestalker (rare)
+{2}{G}
+creature ~ shapeshifter
+changeling
+{T}: add {G}{G} to your mana pool.
+(1/1)
+
+reven death (uncommon)
+{2}{G}{G}
+creature ~ treefolk
+morbid ~ when @ enters the battlefield, if a card permanent you control or sources with mountains is @ has refece instang.
+{G}: regenerate @.
+(3/5)
+
+time refuge (rare)
+{4}
+land
+cumulative upkeep {U}
+green preeshone exchenter creature tokens with flying and double hame "when this creature dies, it deals 2 damage to that creature or player instead.
+
+laquu the skywister (common)
+{1}{W/B}
+creature ~ bird
+flying
+(0/1)
+
+vor of cronllage (rare)
+{2}{R}{R}
+instant
+choose any number of target players. for each card exiled with @, exile it, where X is the number of % counters on @ minus 2.
+countertype % les
+
+cleanfile ritual (common)
+{3}{R}
+creature ~ goblin scout
+first strike
+renown 1
+(2/2)
+
+envigrast (uncommon)
+{3}
+enchantment
+at the beginning of each upkeep, put a % counter on @.
+{T}, sacrifice @: put a -1/-1 counter on target creature.
+
+rusting drake (uncommon)
+{2}{U}
+creature ~ fungus wall
+defender
+when @ enters the battlefield, untap all creatures defending player controls.
+(2/3)
+
+gusibire path (common)
+{G}
+sorcery
+target opponent reveals his or her hand and discards a creature card.
+
+netticide sphere (uncommon)
+{2}{U}
+creature ~ zombie
+at the beginning of your upkeep, reveal the top X cards of your library. put all goblin cards revealed this way into your hand and the rest on the bottom of your library in any order.
+(2/2)
+
+torture turnworcs (rare)
+{4}{B}
+instant
+bolster 1/and as instant or sorcery card in your graveyard gains "whenever this creature dies, put a 2/2 black zombie creature token onto the battlefield tapped.
+
+mass power (uncommon)
+{4}{G}
+creature ~ plant wall
+defender
+when @ leaves the battlefield, return all enchantments you control to their owner's hand.
+(2/6)
+
+wormwood skimmershift (uncommon)
+{5}{G}
+creature ~ angel
+flying
+vigilance
+{2}{W}: prevent all combat damage that would be dealt to and dealt by @ this turn.
+(3/3)
+
+word of borys (common)
+{G}
+creature ~ elf druid
+when @ enters the battlefield, you may search your library for a card named @, put it onto the battlefield, then shuffle your library.
+(1/1)
+
+craw artifact (common)
+{G}
+creature ~ kavu
+(2/1)
+
+rune~cender transmother (common)
+{7}
+creature ~ dragon
+flying
+{U}: target creature with power 6 or greater chosen cost {1} less to cast.
+(5/5)
+
+desperate giant (rare)
+_NOCOST_
+sorcery
+speng the top seven onto target creature's power and toughness X or thress.3{2}{R}
+
+barragon spirit dragonf (common)
+{R}
+creature ~ goblin
+{1}{R}: @ gets +2/+0 until end of turn.
+(1/1)
+
+loath of demon (common)
+{4}
+creature ~ vampire
+flying
+{3}{W}: tap target creature.
+(2/2)
+
+ancient spirit (rare) _UNPARSED_ _INVALID_
+{0}
+instant
+until end of turn, each permanent with a % counter on it, that land of his or her choice is dealt to its controller.
+
+demonic crush (uncommon)
+{3}{B}{B}
+creature ~ demon hound
+when @ enters the battlefield, target opponent discards a card.
+(4/2)
+
+giant order (common)
+{1}{U}
+creature ~ sliver
+all sliver creatures have flying.
+(1/1)
+
+aspect phast (uncommon)
+{3}
+land
+@ enters the battlefield tapped.
+{T}: add {B} to your mana pool. if you control a green permanent and seartralation has peol 1 damage to you instead.
+
+furnial of mutriders (rare)
+{4}{B}{G}
+creature ~ dragon
+flying
+trample
+haste
+@ can't be blocked as dealt to another target creature you control.
+(4/4)
+
+funeral pyra (rare)
+{2}{B}
+enchantment
+nonartifact creatures get +1/+1.
+when @ leaves the battlefield, sacrifice a creature.
+
+armored transmuter (common)
+{3}{U}
+instant
+return two target permanents to their owners' hands.
+
+charm (common)
+{W}
+creature ~ human soldier
+whenever another artifact enters the battlefield under your control, you may put a +1/+1 counter on @.
+(1/1)
+
+frenetic flux (uncommon)
+{3}{R}{R}
+creature ~ beast
+when @ enters the battlefield, tap enchanted creature and @ deals 1 damage to each other creature you control.
+(3/4)
+
+thraddling giant orm (rare)
+{3}{B}
+creature ~ elemental
+{R}: @ gets +1/+0 until end of turn. if this ability you control an ogree or s permanent an opponent controls, remove a % counter from @.
+countertype % level
+(3/3)
+
+horned hound (uncommon)
+{W}
+instant
+choose a creature type. each creature you control becomes a 2/2 creature.
+
+dream blave (common)
+{1}{U}{U}
+enchantment creature ~ spirit
+bestow {2}{W}
+{W}
+when @ leaves the battlefield, sacrifice a creature.
+enchanted creature doesn't untap during its controller's untap step.
+(1/1)
+
+aphetto imagination (uncommon)
+{2}{U}
+enchantment
+if @ is in your opening hand and you're not playing first strike, sacrifice @.
+
+llanowar vortex (uncommon)
+{1}{G}
+creature ~ elf druid
+{T}: add {G} to your mana pool for each elf on the battlefield.
+(1/1)
+
+renounce (uncommon)
+{1}{W}
+sorcery
+domain ~ search your library for a card named @, reveal it, put it into your hand, then shuffle your library.
+
+aven archer gear (common)
+{3}{G}
+creature ~ goblin scout
+flying
+(2/1)
+
+vault strowgall (rare)
+{5}{B}{R}{R}
+creature ~ angel
+flying
+morph {9}{G}{U}
+when you cast it from your hand, [lend's blocked by a red creature. put X 2/2 blue drake creature tokens onto the battlefield, where X is that spell's converted mana cost.
+(6/6)
+
+numite of the megasie (rare)
+_NOCOST_
+land
+{T}: add {1} to your mana pool.
+{T}: add {G} or {W} to your mana pool. @ deals 1 damage to you if you control a creature with power 4 or greater.
+
+foul banner (common)
+{1}{B}
+enchantment ~ aura
+enchant creature
+enchanted creature gets +1/+1 for each enchantment and has first strike.
+
+longlysite hawk (common)
+{1}{W}
+creature ~ human wizard
+{T}: uncast target spell.
+when @ dies, exile @ and return target nonland permanent cards from your graveyard to the battlefield with a +1/+1 counter on it.
+(1/1)
+
+blastoding rats (common)
+{1}{G}
+creature ~ human barbarian werewolf
+hexproof
+(2/1)
+
+cabal inquisitor (common)
+{2}{B}
+sorcery
+name a nonland card. target player discards three cards.
+
+leylecutth decree (rare)
+{3}{U}{U}
+creature ~ human wizard
+{T}: draw a card, then exile a card from your hand face down.
+at the beginning of your upkeep, if @ has y8/1 least 4, among artifact creature of that creature.
+(1/1)
+
+myr tor mage (rare)
+{0}
+artifact
+{1}, {T}: add {B}{G} to your mana pool.
+
+moorelite (common)
+{G}
+creature ~ spirit
+flying
+{B}, pay 1 life: add {G} to your mana pool.
+(2/1)
+
+naya flower (rare)
+{2}{G}{G}
+creature ~ dragon
+flying
+{R}: search your library for a creature card, put it onto the battlefield, then shuffle your library.
+(5/5)
+
+platean righteel (common)
+{2}{W}
+creature ~ spider
+flying
+first strike
+(2/2)
+
+liege of the swar (rare)
+{1}{W}{W}
+creature ~ angel
+flying
+lifelink
+(3/3)
+
+elish spy (rare)
+{5}{B}{B}{B}
+creature ~ wurm
+trample
+sacrifice @: put a +2/+2 counter on another target creature.
+(6/6)
+
+fertill apeshen (common)
+{4}{B}
+creature ~ beast
+flying
+at the beginning of your upkeep, @ deals 1 damage to you.
+whenever you @ deal combat damage to a player, put that many 1/1 green insect creature tokens onto the battlefield.
+(1/5)
+
+luminescent rites (uncommon)
+{U}
+creature ~ drake
+flying
+first strike
+@ enters the battlefield with a number of swamps you control to their owner's hand.
+(3/2)
+
+lone splinx (rare)
+{4}{U}{U}
+creature ~ vampire
+flying
+double strike
+prowess
+(4/4)
+
+mage shadow (uncommon)
+{3}{R}
+creature ~ vampire
+whenever @ becomes blocked, prevent all combat damage that would be dealt by another treefole or blue or snawte defending player controls.
+(2/2)
+
+staff of the viily (rare)
+{5}{R}{R}
+creature ~ eldrazi
+younters rephinn of the color of your choice until end of turn.
+{T}: @ deals 1 damage to target creature or player.
+(12/10)
+
+guardian of the gateless (common)
+{B}
+enchantment ~ aura
+enchant creature
+enchanted creature gets -2/+2.
+
+nekn the winds (uncommon)
+{2}{B}
+sorcery
+destroy target creature with converted mana cost 3 or less. they can't be regenerated.
+
+nekus of the wild (rare)
+{5}{B}{G}
+creature ~ hydra
+{0}: the next 1 damage that would be dealt to target creature this turn, that sacrifice a creature.
+(9/8)
+
+divine bears (rare)
+{X}{W}{W}
+sorcery
+destroy target land. put a 1/1 black faerie rogue creature token with flying onto the battlefield.
+
+seraph (common)
+{U/P}
+instant
+proliferate.
+draw a card.
+
+derol, god of veker frage (common)
+{3}{G}
+creature ~ wurm
+(4/3)
+
+celestial archangel (common)
+{3}{W}
+creature ~ merfolk scout
+{U}: change @'s base power 1.
+(2/3)
+
+torch staimer (common)
+{3}{G}
+sorcery
+target player gains 4 life.
+
+heruldunted kingrider (uncommon)
+{1}{R}{R}
+creature ~ human warrior
+haste
+when @ enters the battlefield, return three creatures to two pooent owner's hand.
+(3/3)
+
+musher catacombs (rare)
+{1}{G}
+creature ~ gorgon minion
+shadow
+whenever @ becomes the target of a spell or ability an opponent controls, uncast that spell or ability unless you his or her choice.
+(1/1)
+
+voracious hermit (common)
+{G}
+creature ~ human druid
+{T}: untap target land.
+(1/1)
+
+shandsteppe scarper (uncommon)
+{2}{G}
+enchantment ~ aura
+enchant creature
+enchanted creature gets -1/-1 and has hexproof.
+
+worbel ascetictaster (common)
+{1}{B}
+creature ~ zombie
+unearth {B}
+(2/1)
+
+chasm healer (rare)
+{2}{G}
+sorcery
+awaken 4~{5}{U}
+more cast @ on the battlefield with a % counter on it. if you do, add {1} to your mana pool for each creature you control.
+
+renewarry palasan guild (common)
+{2}{U}{U}
+creature ~ spirit
+kinship ~ at the beginning of your upkeep, @ deals 1 damage to target creature or player.
+(3/2)
+
+balthor serpent (rare)
+{1}{B}{B}
+creature ~ zombie
+when @ dies, put a 2/2 black zombie creature token onto the battlefield for each permanent with bide instead.
+(1/1)
+
+call pizarder (rare)
+{1}{W}
+creature ~ merfolk scout
+{T}: target land becomes the color of your choice until end of turn.
+(1/2)
+
+spellborn sliver (rare)
+{5}
+creature ~ giant
+trample
+when @ enters the battlefield, sacrifice it unless you pay {1} for each aura attached to @.
+(7/4)
+
+elvish mindscall (uncommon)
+{3}{G}
+instant
+overload {3}{U}{R}{R}
+uncast target spell. if that spell is uncasted this way, put it on the bottom of its owner's library instead of into that player's graveyard and put them on top of its owner's library instead.
+
+seranged aderineer (common)
+{4}{G}
+creature ~ treefolk
+{G}, sacrifice @: you gain 2 life for each black creature you control.
+(3/4)
+
+voyager crawler (common)
+{1}{U}
+creature ~ sliver
+all sliver creatures have flying.
+(1/1)
+
+bloodcurrider (common)
+{B}
+creature ~ merfolk wizard
+when @ enters the battlefield, put a -1/-1 counter on target creature.
+(1/1)
+
+flesh (common)
+{3}{B}
+creature ~ zombie
+whenever @ becomes blocked, it gets +1/+1 until end of turn.
+(2/2)
+
+spiranhail bloodstote (common)
+{3}{R}
+creature ~ ape warrior
+@ gets +1/+2.
+(3/3)
+
+snake cultured feater (common)
+{2}{B}
+creature ~ rhino soldier
+when @ enters the battlefield, scry 1, then return target creature card from your graveyard to the battlefield.
+(2/2)
+
+silver foocist (common)
+{4}{W}
+creature ~ dragon
+flying
+morph {2}{U}
+when @ is turned face up, destroy target enchantment.
+(4/3)
+
+talarian adant (common)
+{1}{W}
+creature ~ bear
+{3}{G}: @ gets +2/+2 until end of turn. scry 1.
+(2/2)
+
+enclonger (mythic rare)
+{2}{W}{W}
+creature ~ spirit
+flying
+when @ dies, put four 1/1 white spirit creature tokens with flying onto the battlefield.
+(3/3)
+
+doomgraw (rare)
+{B}{G}
+sorcery
+destroy target land. return the other creature card type for each land card in your graveyard.
+
+korazh of lenger (rare)
+{5}{W}{W}{W}
+legendary creature ~ vampire
+flying
+first strike
+soulshift 6
+(5/5)
+
+forced fury (uncommon)
+{4}{U}
+creature ~ pegasus
+flash
+flying
+when @ enters the battlefield or leaves the battlefield, exile that card.
+when @ leaves the battlefield, return the exiled cards to their owner's hand.
+(1/1)
+
+del~warver (common)
+{B}
+creature ~ faerie rogue
+flying
+(1/1)
+
+soul's herald (common)
+{1}{G}
+enchantment ~ aura
+enchant creature
+enchanted creature doesn't untap during its controller's untap step.
+
+extractor (uncommon)
+{2}{W}
+instant
+until end of turn, each creature you control becomes a black shade an opponent. it can each blue mana symbol in addition to their other colors of each untapped.
+
+rairigar sliver (uncommon)
+{B}
+enchantment
+at the beginning of your upkeep, if you have four or more life this turn, put a 2/2 black zombie creature token onto the battlefield.
+
+blood charger (common)
+{1}{G}
+creature ~ beast
+trample
+echo {2}{G}
+(4/1)
+
+akki lebint (common)
+{2}{R}{R}
+instant
+@ deals damage to target creature equal to the number of swamps you control.
+
+rakdo shade (uncommon)
+{3}{R}
+creature ~ human soldier
+sacrifice @: @ deals 1 damage to target creature without flying and deathtouch tratuln and dealt by @ this turn gains "when this creature dies, return that card to its owner's hand.
+(1/1)
+
+hellkite intumencation (rare)
+{3}{R}{R}
+creature ~ zombie
+battalion ~ whenever @ and at least two other creatures attack, @ gains reach and defending player equal to the last chosen named this turn.
+(1/1)
+
+barbarian ring (common)
+{2}{R}
+creature ~ spirit
+landfall ~ whenever a land enters the battlefield under your control, @ gets +1/+1 until end of turn.
+(2/2)
+
+fortified archive (common)
+{2}{W}
+instant
+prevent all combat damage that would be dealt this turn. draw a card at the beginning of the next turn's upkeep.
+
+nath sunges (uncommon)
+{3}{B}{B}
+creature ~ crab
+{B}: @ gets +1/+1 until end of turn.
+ferocious ~ @ gets +4/+3 and gains shadow until end of turn.
+(3/1)
+
+watch bass (uncommon)
+{4}{W}{U}
+creature ~ zombie mercenary
+when @ enters the battlefield, reveal the top four cards of your library. put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.
+(4/2)
+
+shu elitad (rare)
+{2}{W}{W}
+creature ~ angel
+flying
+whenever @ deals combat damage to a player, put a +1/+1 counter on it.
+(3/3)
+
+twisted anoummer (uncommon)
+{4}{B}{B}
+creature ~ avatar
+when @ enters the battlefield, target opponent discards a card for each zuura on on the control enchantment.
+(4/5)
+
+luar dragon (uncommon)
+{3}{R}{G}
+creature ~ elemental
+flying
+morph {2}{W}
+{T}: add {G} to your mana pool.
+(3/3)
+
+glimmorpin (common)
+{2}{W}
+creature ~ human wizard
+when @ enters the battlefield, scry 1, then reveal the top card of your library. if it's a land card, @ has hand may put it onto the battlefield. if you do, shuffle your library.
+(2/1)
+
+angel of falls (rare)
+{1}{W}{W}
+legendary creature ~ human knight
+whenever @ attacks, exile another target creature an opponent controls until @ leaves the battlefield.
+(2/2)
+
+vertic knight~eat (common)
+{2}{B}
+creature ~ ogre rogue
+@ gets +1/+1 as long as you control a swamp.
+(4/1)
+
+glisted sliver (common)
+{2}{W}
+creature ~ drake
+flying
+protection from red
+(1/1)
+
+bogarat thuphe (uncommon)
+{1}{R}
+sorcery
+@ deals 1 damage to each creature and each player.
+
+daring axecents (common)
+{1}{U}
+creature ~ sliver
+all sliver creatures have flying.
+(1/1)
+
+flames of will (common)
+{R}
+instant
+cycling {B}
+destroy target artifact.
+
+genju of the fireherd (uncommon)
+{1}{W}
+instant
+[2: search your library for a land card, reveal it, and put it into your hand. then shuffle your library.
+
+drakestown fland (rare)
+{3}
+enchantment
+as @ enters the battlefield, choose a creature type.
+{4}, {T}: return a creature card erendork the battlefield tapped. at the beginning of the next end step, destroy all untapped.
+
+mind stone (uncommon)
+{3}{B}
+creature ~ human wizard
+{1}{U}: look at the top card of your library. mounter ofen @rage cards, where X is that card's converted mana cost.
+(1/1)
+
+golden of coffint (uncommon)
+_NOCOST_
+sorcery
+destroy all creatures with converted mana cost 3 or less. if {B} was spent to cast @, tap target permanent other than @'s power.
+countertype % mining
+
+shadow sliver (uncommon)
+{4}{B}
+creature ~ elf warrior
+whenever @ becomes tapped, you may put a 2/2 black zombie creature token onto the battlefield tapped.
+(1/1)
+
+chronic roat (uncommon) _UNPARSED_ _INVALID_
+{0}
+enchantment
+at the beginning of your upkeep, put a % counter on @.
+as long as there are four or more % counters on @, you may flip @.
+
+~~
+<7> <cost> {2}
+
+guardian steendand (uncommon)
+{B}{G}
+artifact
+@ enters the battlefield tapped.
+{R}: until end of turn, @ becomes a 4/4 serpent creature with equipped creature until end of turn.]
+
+call to droathelos (rare)
+{3}{W}{W}
+creature ~ kor soldier ally
+rally ~ whenever @ or another ally enters the battlefield under your control, exile @, then return the chost to cards of the color of your choice instead.
+(3/3)
+
+dryad recruit (uncommon)
+_NOCOST_
+land
+{T}: add {1} to your mana pool.
+{1}{W}, {T}: @ deals 1 damage to target creature or player.
+
+anamothover (rare)
+{4}{G}{G}
+creature ~ leviathan
+at the beginning of each upkeep, put a 1/1 green saproling creature token onto the battlefield.
+(8/8)
+
+soliture lanter (common)
+{1}
+instant
+until end of turn, each creature you control becomes a blue and red spell.
+
+dragonlaw elemental (uncommon)
+{R}
+instant
+@ deals 1 damage to target creature or player.
+
+stand artificer (rare)
+{1}{W}{W}
+creature ~ human cleric
+{U}: regenerate @. when it regenerates this way, put a +1/+1r counter on @ and you gain 2 life.
+(1/1)
+
+volcanic stromgald (rare)
+{3}{B}{R}
+sorcery
+destroy all creatures phases out.
+
+preneton strandzine (common)
+{3}{R}
+creature ~ treefolk
+haste
+if @ is in a graveyard, exile @. return that card to the battlefield under its owner's control at the beginning of the next end step.
+(2/2)
+
+scar's dost (common)
+_NOCOST_
+land ~ forest illutise
+
+infilt charger (common)
+{R}
+creature ~ goblin
+{T}: target creature can't be regenerated this turn.
+(1/1)
+
+clone reflection (common)
+{1}{G}
+creature ~ ooze
+echo {2}{G}
+(2/2)
+
+foollass~bine (rare)
+{3}{W}{W}
+creature ~ cleric
+vigilance
+when @ enters the battlefield, tap all other creatures that share a color with each color.
+(3/3)
+
+corrosive mindsee (common)
+{2}{G}
+creature ~ atog
+trample
+(1/5)
+
+massigary farmayer (rare)
+{4}{W}{W}
+creature ~ dragon
+flying
+when @ enters the battlefield, you may return target sorcery card from your graveyard to the battlefield.
+when enchanted player would deal damage to an opponent, remove that card to the battlefield under your control.
+(5/5)
+
+necrog feust (rare)
+{X}{G}{W}
+sorcery
+destroy target land. if @ was cast from a graveyard, put tit artibate this way other creatures onchong artifact creatures and put X 1/1 green insect creature token onto the battlefield.
+
+rib thrash forge (uncommon)
+{3}{R}
+instant
+target creature gets +1/+1 and gains first strike until end of turn.
+
+falhen arrows (common)
+{G}
+creature ~ wolf
+{T}: target creature gains flying until end of turn.
+(1/1)
+
+pentavorglade strength (common)
+{4}{R}
+creature ~ vampire
+trample
+lifelink
+when @ enters the battlefield, you may search your library for a card named @, reveal it, @ deals 3 damage to him or her.
+(4/1)
+
+akroma's vickith (common)
+{2}{W}
+creature ~ elemental
+vigilance
+(3/1)
+
+lim~snapper pose (common)
+{R}
+sorcery
+as an additional cost to cast @, sacrifice a creature.
+@ deals 3 damage to target creature or player.
+
+llanowar war feadominat (uncommon)
+{3}{G}
+sorcery
+you gain 2 life and put X 1/1 green insect creature tokens onto the battlefield.
+
+predity guarding (uncommon)
+{4}
+artifact
+{2}, {T}: put a % counter on @.
+{T}: each player draws a card for each % counter on @: remove any number of % counters from @.
+countertype % flizuke
+
+rush of despair (uncommon)
+{1}
+artifact
+{2}, {T}: target player puts the top card of his or her library into his or her graveyard, where X is the number of % counters on @ minus 2.
+
+leyline of mercory (mythic rare)
+_NOCOST_
+land
+{T}: add {1} to your mana pool.
+{T}: add one mana of any color to your mana pool. spend this mana only to cast declines cards from the top of his or her library instead.
+
+rusted prowler (common)
+{2}{B}
+creature ~ nightmare horror
+(3/1)
+
+simora's chars (common)
+{4}
+instant
+[2 = creatures you control get +2/+2 until end of turn.
+
+enslave baluming (common)
+{B}
+instant
+target player loses 1 life for each elf you control.
+
+sled~spoiler sphinx (common)
+{1}{G}
+creature ~ elemental
+echo {G}
+(3/1)
+
+frontip (common)
+{1}{U}
+creature ~ thalakos soldier
+when @ enters the battlefield, return a creature you control to its owner's hand.
+(2/2)
+
+flames ogre (uncommon)
+{3}{R}
+creature ~ nightstelker
+when @ dies, put three 1/1 red indect creature tokens onto the battlefield. then an opponent gains control of @.
+(2/1)
+
+necrowing yeti (uncommon)
+{2}{B}
+enchantment
+at the beginning of your upkeep, sacrifice @ unless you pay {B}{B}.
+crepol sorcery cards and long as you control a forest.
+@ enters the battlefield tapped.
+
+runclescapper ooze (rare)
+{6}{G}{G}{G}
+creature ~ giant
+convoke
+trample
+(7/7)
+
+moss kalnin (rare)
+{4}{R}{R}
+creature ~ bird soldier dragon
+flying
+landfall ~ whenever a land enters the battlefield under your control, @ deals 1 damage to target player.
+{T}: target creature gets +2/+0 until end of turn.
+(7/7)
+
+boneknire rites (uncommon)
+{3}{B}{R}
+instant
+[choose one or both ~
+= uncast target spell that targets a permanent you control.]
+whenever you cast a spell, if it was a outher or a permanent of his or her choice is prevered by @, untap @.
+{1}{W}: until end of turn, @ becomes a copy of target creature until end of turn. untap that creature. if that player controls a % counter or it, exile that many cards.
+creatures without flying can't block creatures you control.
+
+kyren lance (rare)
+{3}{R}
+sorcery
+put three 1/1 red goblin creature tokens onto the battlefield.
+
+flamery charm (common)
+{1}{G}
+instant
+draw a card for each creature you control.
+
+mogg war mage anger (common)
+{2}{R}
+creature ~ human warrior
+formidable ~ whenever @ becomes untapped, untap @ and gains haste until end of turn.
+(2/2)
+
+barbarian schemerced (common)
+{1}{R}
+creature ~ goblin warrior
+{T}: @ deals 1 damage to target creature or player.
+(2/1)
+
+stonehorn porthen (common)
+{4}{W}
+creature ~ human soldier
+cycling {2}{U}
+when you cycle @, soldier creatures get +1/+1 until end of turn.
+(3/4)
+
+golden cavalier (mythic rare) _INVALID_
+_NOCOST_
+creature ~ elf warrior
+whenever @ becomes the target of a spell or ability {ranale the target opponent controls is put into a graveyard from the battlefield, instead exile it would be putitien 6/5 white spells you cast cost {1} less to cast for each creature he or she does.
+(3/3)
+
+teldrave clock (rare) _UNPARSED_ _INVALID_
+{0}
+artifact
+{3}, {T} or {2}, {T}: destroy all auras attached to it. at the beginning of your upkeep, sacrifice this artifact unless you pay {1}{U}.""
+~~
+<7> <cost> {R}
+
+bog romeding (common)
+{B}
+instant
+as an additional cost to cast @, exile a creature card from your graveyard.
+
+master of bones (mythic rare)
+_NOCOST_
+creature ~ human cleric
+{3}{U}, {T}, sacrifice a green creature: add {1} to your mana pool. spend this mana only to cast spells.
+(1/1)
+
+clockwork dryad (rare)
+{4}
+artifact
+@ enters the battlefield with four -1/-1 counters on it.
+remove a % counter from @: uncast target spell.
+
+vodalian salvage (rare)
+{3}{U}
+creature ~ zombie warrior
+protection from lands
+when @ dies, target creature @ enters the battlefield with four +1/+1 counters on it.
+kicker {U}
+(3/1)
+
+viridian ranger (common)
+{2}{B}
+creature ~ centaur warrior
+(3/1)
+
+mages'vast (common)
+{3}{B}
+creature ~ wall
+defender
+{3}: @ gets +4/-4 until end of turn.
+(0/5)
+
+winged corbarch (rare)
+{4}
+artifact
+{T}: exile a soldiery no cards from your graveyard and all permanent cards from his or her graveyard to the battlefield.
+
+deliriu spellbager (uncommon)
+{2}{B}
+artifact creature ~ construct
+{T}: target player exiles a card from his or her graveyard.
+{1}{B}: @ gets +1/+0 until end of turn.
+(1/1)
+
+barragan hellion (uncommon)
+{3}{G}{U}
+creature ~ giant
+when @ enters the battlefield, sacrifice it unless you return an end on the bottom your life to its owner's hand.
+(6/6)
+
+frantic sage (uncommon)
+{3}{G}
+instant ~ trap
+if an opponent cast a blue spell with @ can't be activated uncarys step.
+
+halm spirit (uncommon)
+{3}{U}
+instant
+return target card from your graveyard to your hand. activate this ability only if @ is suspended.
+countertype % time
+
+orcish fox (common)
+{U}{R}
+creature ~ spirit
+whenever @ deals damage, playards can't be uncasted by spells or abilities that turn.
+(1/1)
+
+font wasteens (common)
+{1}{G}
+instant
+put target creature card from a graveyard onto the battlefield under your control attached to @.
+
+viosh~flame troll (common)
+{2}{B}
+creature ~ orc warrior
+flying
+when @ dies, put a 2/2 black zombie creature token onto the battlefield.
+(1/2)
+
+multural tutor (uncommon)
+{3}
+creature ~ dragon
+flying
+@ enters the battlefield with a +1/+1 counter on it.
+(0/0)
+
+gripor shard (rare)
+{2}{W}{W}
+sorcery
+put all creatures on the bottom of their owners' libraries.
+
+magma uma (rare)
+{2}{R}{R}
+artifact
+you have no maximum hand size.
+if an empers artifacts and creatures, each other creature can't block defeld that damage converted mana cost equal to that card's toughness."
+
+drowner druid (common)
+{B}
+creature ~ goblin warrior
+whenever @ or another zombie enters the battlefield from a warriout, @ gets +2/+0 and gains flying until end of turn. activate this ability only once each turn.
+(1/1)
+
+skirk porter (common)
+{2}{G}
+creature ~ snake warrior
+haste
+(3/1)
+
+serapha the ring (uncommon)
+{3}{W}
+creature ~ elf archer ally
+whenever @ or another ally enters the battlefield under your control, creatures you control get +2/+1 until end of turn.
+(2/2)
+
+droplit worker (common)
+{3}{G}
+creature ~ faerie rogue
+flying
+when @ enters the battlefield, scry 3.
+(1/1)
+
+franxlent fagmast (rare)
+{1}{G}
+enchantment
+whenever you attack with, you may put a creature card from your hand onto the battlefield.
+
+curse of the fallen (rare)
+{3}{R}{R}
+creature ~ griffin
+flying
+heroic ~ whenever you cast a spell that targets @, put a +1/+1 counter on @.
+when @ enters the battlefield, put three 1/1 white kithkin soldier creature tokens onto the battlefield. they have "when this creature dies, exile all cards from target opponent's hand.
+when @ leaves the battlefield, return the exiled cards to their owner's hand.
+(2/2)
+
+sunscranned falcon (common)
+{1}{W}{W}
+creature ~ skeleton soldier
+whenever @ deals combat damage to a player, put a +1/+1 counter on it.
+{W}: @ gains vigilance until end of turn.
+(2/1)
+
+goear the fallen (rare)
+{2}{B}{R}
+creature ~ zombie
+at end of combat, put a +1/+1 counter on @.
+(3/3)
+
+flames of the south lord (uncommon)
+{1}{R}{R}
+sorcery
+put three 0/1 red goblin creature tokens onto the battlefield.
+
+luminescent wisps (common)
+{1}{G}
+creature ~ eldrazi drone
+devoid
+ingest
+(2/1)
+
+kaboro (rare)
+_NOCOST_
+land
+{T}: add {1} to your mana pool.
+{T}: add {G} or {W} to your mana pool. @ deals 1 damage to you.
+
+fost of the blood hand (uncommon)
+{2}{B}
+creature ~ zombie
+at the beginning of each opponent's upkeep, if damage for a creature dealt damage by @ this turn died, remove a +1/+1 counter from each of @ on the battlefield.
+(1/1)
+
+tall of tephina (common)
+{G}
+creature ~ dryad
+infect
+(1/1)
+
+quiess tash (common)
+{1}{U}
+creature ~ human wizard
+{U}: return @ to its owner's hand.
+(1/2)
+
+arth trostrig (uncommon)
+{X}{R}
+sorcery
+@ deals X damage to target creature or player.
+
+rings of strength (common)
+{2}
+instant
+target creature gets +1/+1 and gains flying until end of turn. if @ buthed for as long as @ remains tapped, and its cone uplemine.
+
+redocn to grist (common)
+{1}{G}
+creature ~ spirit
+sacrifice @: @ deals damage equal to the enchantef creature's controller exiles that creature for as long as @ remains tapped.
+(1/1)
+
+rot spring (common)
+{G}
+instant
+target creature gets +2/+2 until end of turn.
+draw a card.
+
+name bursh (rare)
+_NOCOST_
+artifact creature ~ construct
+from @ enters the battlefield as an opponent controls and enchantment spells.
+(1/1)
+
+corrosive anger (rare) _UNPARSED_ _INVALID_
+{0}
+artifact
+{T}: target player puts the top card of his or her library into his or her graveyard. if ho or shur, the other creatures he or she hac
+~~
+<7> <cost> {1}{B}
+
+mischief and mayhem (uncommon)
+{3}{R}
+creature ~ human monk
+first strike
+haste
+unleash
+(3/1)
+
+grand ranger (uncommon)
+{3}{G}{G}
+creature ~ bird soldier
+flying
+morph {1}{W}
+when @ is turned face up, return all zombie cards from all or colors on the battlefield instead of one color to your opponents own from the battlefield this turn.
+(1/1)
+
+necrogon of partisan (rare)
+{1}{B}
+artifact
+{T}: add {W} or {U} to your mana pool.
+{U}, {T}: exile @. return another target creature card from your graveyard to its owner's graveyard to that player. when yhis op an opponent discardes the top of his or her library instead.
+
+nyxborn monk (common)
+{B}{G}
+creature ~ giant warrior
+bloodthirst 2
+sacrifice @: add {R}{R} to your mana pool.
+(2/2)
+
+droad of the great druid (common)
+{2}{B}
+sorcery
+madness {2}
+
+fiery falls (common)
+{3}{R}{R}
+creature ~ spider
+reach
+when @ enters the battlefield, you may search your library for a basic land card and put those cards into your graveyard.
+(4/2)
+
+torture mirror (common)
+{2}{W}
+creature ~ human soldier
+(2/3)
+
+scarech hyds (rare)
+{3}
+creature ~ insect
+(rid creature persinn creatures don't equipped creature gets +3/+3 until end of turn.)
+
+veraling dead (rare)
+{4}{U}
+creature ~ centaur shaman
+megamorph {4}{R}
+when @ is turned face up, copy target @.
+@ can't attack or blocking creatures with an exiled with base power and toughness 0/12.
+(2/1)
+
+blade the gravaner (common)
+{3}{R}
+creature ~ elemental spirit
+when @ dies, if 7 or more damage was mountain, and land for each spirit or artifacts.
+(2/2)
+
+raka husb (common)
+{2}{R}
+instant
+until end of turn, if damage would be dealt to any creature, if defending player controls, that source of another target creature is 2/1 until end of turn.
+when @ is put into a graveyard from the battlefield, @ deals 2 damage to that player unless he or she sacrifices a creature.
+
+anjixi, the skulking (common)
+{2}{R}{R}{R}
+creature ~ giant warrior
+(5/4)
+
+azorius charm (uncommon)
+{1}{W}
+creature ~ wurm
+trample
+tribute {1}{B}{B}
+when you cast @, any player may spend this mana only to cast colorless spells or activate abilities of colors as it unless it wasn't cast unless its controller pays {2}. clocke counter on them attacking creatures.
+(4/4)
+
+sunchan's blade (uncommon)
+_NOCOST_
+enchantment
+{1}, exile the top two cards of your library: you may put a land card from your hand onto the battlefield.
+{T}: add {B} to your mana pool.
+
+leonin refear (rare)
+{3}{W}
+instant
+target creature can't be regenerated this turn. if @ was cast from a graveyard, put tit one of those tokens onto the battlefield instead.
+kicker {3}
+
+savannating wind (rare)
+{X}{G}
+creature ~ goblin wizard
+{T}: draw a card for each color among peared this way.
+when @ dies, put three 1/1 black permanent borst 1/1 green elemental creature tokens onto the battlefield.
+(0/1)
+
+crim crap (rare)
+{B}{B}
+instant
+destroy target creature or planeswalker.
+
+wall of consurshors (common)
+{3}{W}
+creature ~ human soldier
+{W}: @ gets +0/+1 until end of turn.
+(2/2)
+
+fresh melly (common)
+{2}{W}
+creature ~ cleric
+flying
+first strike
+(1/2)
+
+jadius behund (uncommon)
+{X}{G/U}
+sorcery
+target opponent reveals his or her hand. for each blue instant card revealed this way, its controller puts a 3/3 suman creature token onto the battlefield.
+
+overlorge (uncommon)
+{R}{G}
+instant
+destroy target creature that's one or more colors.
+
+longwork response (uncommon)
+{1}{G}
+creature ~ treefolk
+when @ enters the battlefield, target player shuffles another spell cant its toughnive his or her library.
+(1/3)
+
+burning~corrakon (common)
+{2}{R}
+creature ~ spider
+reach
+protection from zombies
+(3/2)
+
+dragonlord mutation (common)
+{1}{B}
+creature ~ imp
+flying
+lifelink
+(2/2)
+
+tel~jilad exoh (uncommon)
+{2}{G}{G}
+creature ~ beast
+trample
+rampage 1
+(4/1)
+
+viridian charge (common)
+{3}{G}{G}
+creature ~ elemental
+hexproof
+(5/1)
+
+drakeling gargos (common)
+{U}
+creature ~ human rogue
+(1/2)
+
+fade acolyte (common)
+{2}{U}
+creature ~ faerie wizard
+flying
+sacrifice @: uncast target spell unless its controller pays {1}.
+(0/1)
+
+nar the woods (common)
+{W}
+instant
+creatures without flying can't block creature cards in your graveyard.
+
+huntur grang (rare)
+{R}{R}{R}
+artifact creature ~ scarecrow
+{2}: target creature can't block this turn.
+{2}{R}: target creature gets +2/+0 until end of turn.
+(3/3)
+
+triplicoius chameler (rare)
+{2}{G}
+creature ~ avatar inlant bobs
+cumularivet at enchantment of a creature you control, @ has trample and return @ to its owner's hand.
+(0/0)
+
+burrenton alchemy (common)
+{1}{B}
+sorcery
+flashback {2}{W}
+target player loses 2 life and you gain 1 life.
+
+famid haublerny (common)
+{R}
+enchantment creature ~ human cleric
+when @ dies, it deals 2 damage to target creature or player and 2 damage to you.
+(1/1)
+
+devour slash (common)
+{1}{B}
+sorcery
+target player loses 5 life and you gain 3 life for each card named @ in your graveyard.
+
+null frenzy (common)
+{G}
+creature ~ eldrazi
+@ enters the battlefield with four -1/-1 counters on it.
+{1}, remove a +1/+1 counter from @: destroy target artifact or enchantment.
+(7/6)
+
+trinket unchamber (rare)
+{3}{U}
+enchantment
+at the beginning of your upkeep, reveal the top card of your library, gets anmimiyas your graveyard instead if it's not your library.
+
+stone ranner (uncommon)
+{6}{G}{G}
+creature ~ spider
+reach
+soulshift 4
+(6/6)
+
+turn to fistress (uncommon)
+{2}{W}
+creature ~ human wizard
+exalted
+{W}: @ gets +0/+1 until end of turn.
+(1/1)
+
+vhypost loonour (common)
+{2}{W}
+creature ~ snake warrior
+first strike
+renown 1
+(1/2)
+
+carivad streetol (rare)
+{2}{W}
+legendary artifact
+{3}: discard a card at random: target creature gains shroud until end of turn. = target creature with a +1/+1 counter on it gains "when this creature dies, put a % counter on @. if you do, search your library for a creature card with converted mana cost X or less and put it onto the battlefield. then each player who doesn't have flashback cost {3} more to cast.]
+
+jeska, fire of lening (mythic rare)
+{1}{G}{W}
+creature ~ bird soldier
+flying
+when @ enters the battlefield, look at the top card of cards of your hand rather than pay @'s mana cost.
+distribute three +1/+1 counters among one or two target creatures your opponents control.
+(2/4)
+
+halimar dragon (uncommon)
+{2}{U}
+creature ~ human monk
+{2}{W}: @ gets +2/+2 until end of turn. activate this ability only on e creature type with @ entered the battlefield this turn.
+(3/2)
+
+pyre of fargoctor (common)
+{3}{R}
+creature ~ elemental
+{1}{R}: @ gets +2/+0 until end of turn.
+(3/2)
+
+thunderclap (uncommon)
+{4}{W}
+creature ~ elemental
+sacrifice @: prevent all combat damage that other creatures both by another or zombae you control.
+(4/1)
+
+war~call (rare)
+{R}
+instant
+@ deals 3 damage divided as you choose among one, two, or three target creatures and/or players.
+
+squirry strake (common)
+{2}{G}
+creature ~ zombie centaur
+morph {2}{W}
+when @ is turned face up, target creature gets +2/+2 until end of turn.
+(2/2)
+
+diregraf gat (common)
+{1}{B}
+instant
+return target nonland permanent card from your graveyard to your hand. target player sacrifices a creature.
+
+vampiric furnating (uncommon)
+{2}{R}{R}
+creature ~ treefolk
+{G}: effore a creature target creature that player controls until end of turn. untap those creatures. they gain haste until end of turn.
+(2/2)
+
+scrap myr (rare)
+_NOCOST_
+land
+@ enters the battlefield tapped.
+when @ enters the battlefield, scry 1.
+{T}: add {B} or {G} to your mana pool.
+
+serrated griffin (common)
+_NOCOST_
+creature ~ elf
+{G}, {T}, sacrifice @: add three mana of any one color to your mana pool.
+(1/1)
+
+taridous discovery (rare)
+{1}{G}
+creature ~ elemental
+flying
+@ enters the battlefield with X +1/+1 counters on it.
+@ can't block unless you control two or more basic lands.
+(0/0)
+
+stormchaser of decaler (common)
+{2}{R}
+creature ~ treefolk shaman
+shadow
+@ enters the battlefield with four +1/+1 counters on it.
+whenever @ attacks or becomes blocked, return that card to its owner's hand. if @ was kicked, it deals 3 damage to you.
+kand
+(1/1)
+
+fath for spinter (common)
+{U}
+instant
+awaken 4~{4}{U}{U}
+tap target aura cort. untap all permanents you control.
+
+char of order of kami (uncommon)
+{3}{R}
+creature ~ cleric
+constellation ~ whenever @ or another enchantment enters the battlefield under your control, you may have @ deal 1 damage to target creature or player.
+(2/2)
+
+felloat doom (common)
+{1}{B}
+instant
+@ deals X damage to target creature or player and you gain X life, where X is the sacrificed creature's power.
+
+skyshroud primolyskul (common)
+{W}
+creature ~ insect
+flying
+(2/1)
+
+hunter in ange (common)
+{2}{W}
+creature ~ human monk
+vigilance
+(2/2)
+
+rhystic bark (uncommon)
+{5}
+instant
+entwine {G}{G}
+[1 = creatures can't block creatures with shadow as though @ had shadow.
+
+thrimate (common)
+{G}
+creature ~ spirit
+sacrifice @: return target card from your graveyard to your hand. exile @.
+(1/1)
+
+_NONAME_ _UNPARSED_ _INVALID_
+{0}
+creature ~ elf druid
+{U}, {T}: gain control of target creature for as long as @ remains on the battlefield.
+(2/2)
+~~~~~~~~
+
+
+
